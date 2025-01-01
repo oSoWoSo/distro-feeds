@@ -4,7 +4,7 @@
     <title>Feeds</title>
   </head>
   <body>
-    <outline text="Distros" title="DistroWatch">
+    <outline text="DistroWatch" title="DistroWatch">
       <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dwd.xml" title="DistroWatch" type="rss" />
     </outline>
     <outline text="Tech" title="Tech">
