@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline text="DistroWatch" title="DistroWatch">
-      <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dwd.xml" title="DistroWatch" type="rss" />
+      <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dw.xml" title="DistroWatch" type="rss" />
     </outline>
   </body>
 </opml>
