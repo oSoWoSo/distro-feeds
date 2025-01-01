@@ -7,21 +7,6 @@
     <outline text="Distros" title="DistroWatch">
       <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dwd.xml" title="DistroWatch" type="rss" />
     </outline>
-    <outline text="Cycling" title="Cycling">
-      <outline htmlUrl="https://bikerumor.com" type="rss" text="Bikerumor" title="Bikerumor" xmlUrl="https://bikerumor.com/feed/" />
-      <outline text="The Radavist" type="rss" htmlUrl="https://theradavist.com" xmlUrl="https://theradavist.com/feed/" title="The Radavist" />
-      <outline text="Moots" xmlUrl="https://moots.com/feed/" type="rss" htmlUrl="https://moots.com" title="Moots" />
-      <outline title="BikeRadar" htmlUrl="https://www.bikeradar.com" type="rss" xmlUrl="https://www.bikeradar.com/feed/" text="BikeRadar" />
-      <outline text="CyclingTips" type="rss" htmlUrl="https://cyclingtips.com" title="CyclingTips" xmlUrl="https://cyclingtips.com/feed  " />
-      <outline htmlUrl="https://www.hambini.com" text="Hambini Engineering" xmlUrl="https://www.hambini.com/feed/" title="Hambini Engineering" type="rss" />
-      <outline title="Strava" text="Strava" htmlUrl="https://blog.strava.com" xmlUrl="https://blog.strava.com/feed/" type="rss" />
-      <outline type="rss" htmlUrl="https://www.cyclist.co.uk/feeds/all" text="Cyclist.co.uk" title="Cyclist.co.uk" xmlUrl="https://www.cyclist.co.uk/feeds/all" />
-      <outline type="rss" title="Rouleur - Rouleur: Inside the peloton" xmlUrl="https://www.rouleur.cc/blogs/the-rouleur-journal.atom" text="Rouleur - Rouleur: Inside the peloton" htmlUrl="https://www.rouleur.cc/blogs/the-rouleur-journal" />
-      <outline text="DC Rainmaker" title="DC Rainmaker" htmlUrl="https://www.dcrainmaker.com" xmlUrl="https://www.dcrainmaker.com/feed" type="rss" />
-    </outline>
-    <outline title="Me" text="Me">
-      <outline type="rss" text="@llun story" title="@llun story" xmlUrl="https://www.llun.me/feeds/atom.xml" htmlUrl="https://www.llun.me/" />
-    </outline>
     <outline text="Tech" title="Tech">
       <outline text="AWS News Blog" title="AWS News Blog" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" type="rss" />
       <outline title="HashiCorp Blog" type="rss" text="HashiCorp Blog" htmlUrl="https://hashicorp.com/blog" xmlUrl="https://www.hashicorp.com/blog/feed.xml" />
