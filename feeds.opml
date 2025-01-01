@@ -4,9 +4,8 @@
     <title>Feeds</title>
   </head>
   <body>
-    <outline text="Apple" title="Apple">
-      <outline text="Macworld" htmlUrl="https://www.macworld.com" xmlUrl="http://www.macworld.com/index.rss" title="Macworld" type="rss" />
-      <outline htmlUrl="https://www.macrumors.com" title="MacRumors: Mac News and Rumors - All Stories" type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-All" text="MacRumors: Mac News and Rumors - All Stories" />
+    <outline text="Distros" title="DistroWatch">
+      <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dwd.xml" title="DistroWatch" type="rss" />
     </outline>
     <outline text="Cycling" title="Cycling">
       <outline htmlUrl="https://bikerumor.com" type="rss" text="Bikerumor" title="Bikerumor" xmlUrl="https://bikerumor.com/feed/" />
