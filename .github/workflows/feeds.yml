@@ -16,4 +16,4 @@ jobs:
         uses: llun/feeds@2.6.4
         with:
           storageType: files
-          customDomain: feeds.llun.dev
+          # customDomain: feeds.llun.dev
