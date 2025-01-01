@@ -7,17 +7,5 @@
     <outline text="DistroWatch" title="DistroWatch">
       <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dwd.xml" title="DistroWatch" type="rss" />
     </outline>
-    <outline text="Tech" title="Tech">
-      <outline text="AWS News Blog" title="AWS News Blog" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" type="rss" />
-      <outline title="HashiCorp Blog" type="rss" text="HashiCorp Blog" htmlUrl="https://hashicorp.com/blog" xmlUrl="https://www.hashicorp.com/blog/feed.xml" />
-      <outline title="cheeaunblog" xmlUrl="https://cheeaun.com/blog/feed.xml" type="rss" htmlUrl="https://cheeaun.com/blog" text="cheeaunblog" />
-      <outline type="rss" xmlUrl="https://alistapart.com/main/feed/" text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" htmlUrl="https://alistapart.com" />
-      <outline title="Daring Fireball" htmlUrl="https://daringfireball.net/" xmlUrl="https://daringfireball.net/feeds/main" type="rss" text="Daring Fireball" />
-      <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" htmlUrl="https://www.smashingmagazine.com/" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" />
-      <outline xmlUrl="https://www.informationisbeautiful.net/feed" type="rss" htmlUrl="https://informationisbeautiful.net" text="Information is Beautiful" title="Information is Beautiful" />
-      <outline xmlUrl="https://webkit.org/blog/feed/" text="Blog – WebKit" title="Blog – WebKit" htmlUrl="https://webkit.org" type="rss" />
-      <outline htmlUrl="https://arstechnica.com" xmlUrl="http://feeds.arstechnica.com/arstechnica/BAaf" type="rss" title="Ars Technica" text="Ars Technica" />
-      <outline htmlUrl="https://news.ycombinator.com" xmlUrl="https://news.ycombinator.com/rss" type="rss" title="Hacker News" text="Links for the intellectually curious, ranked by readers." />
-    </outline>
   </body>
 </opml>
