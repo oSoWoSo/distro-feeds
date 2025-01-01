@@ -34,19 +34,5 @@
       <outline htmlUrl="https://arstechnica.com" xmlUrl="http://feeds.arstechnica.com/arstechnica/BAaf" type="rss" title="Ars Technica" text="Ars Technica" />
       <outline htmlUrl="https://news.ycombinator.com" xmlUrl="https://news.ycombinator.com/rss" type="rss" title="Hacker News" text="Links for the intellectually curious, ranked by readers." />
     </outline>
-    <outline title="Thai" text="Thai">
-      <outline xmlUrl="https://iannnnn.com/feed" title="iannnnn.com" type="rss" text="iannnnn.com" htmlUrl="https://iannnnn.com" />
-      <outline type="rss" htmlUrl="https://markpeak.net" text="markpeak.net" title="markpeak.net" xmlUrl="https://markpeak.net/feed/" />
-      <outline type="rss" xmlUrl="http://lewcpe.com/blog/feed" text="LewCPE's Blog" htmlUrl="https://lewcpe.com/blog" title="LewCPE's Blog" />
-      <outline htmlUrl="https://www.blognone.com" xmlUrl="https://www.blognone.com/node/feed" title="Blognone" type="rss" text="Blognone" />
-      <outline text="cc :: somkiat" htmlUrl="https://www.somkiat.cc" type="rss" title="cc :: somkiat" xmlUrl="https://www.somkiat.cc/feed/" />
-      <outline htmlUrl="https://www.icez.net/blog" type="rss" xmlUrl="https://www.icez.net/blog/feed" title="icez network" text="icez network" />
-      <outline text="Quietly Verbose" xmlUrl="https://blog.whs.in.th/feed" type="rss" title="Quietly Verbose" htmlUrl="https://blog.whs.in.th" />
-      <outline htmlUrl="https://neizod.github.io/" type="rss" xmlUrl="https://neizod.github.io/feed.xml" title="neizod's speculation" text="neizod's speculation" />
-      <outline type="rss" htmlUrl="https://thanapon.info" xmlUrl="https://thanapon.info/feed/" title="Thanapon" text="Thanapon" />
-      <outline type="rss" htmlUrl="https://srakrn.me/blog" text="@srakrn's Blog" xmlUrl="https://srakrn.me/blog/feed/" title="@srakrn's Blog" />
-      <outline title="เม่น • บล็อก" type="rss" xmlUrl="https://menn.blog/rss/" text="เม่น • บล็อก" htmlUrl="https://menn.blog/" />
-      <outline text="tAp's blog" htmlUrl="http://visibletrap.blogspot.com/" xmlUrl="http://visibletrap.blogspot.com/feeds/posts/default" type="rss" title="tAp's blog" />
-    </outline>
   </body>
 </opml>
