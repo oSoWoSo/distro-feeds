@@ -21,6 +21,6 @@ jobs:
         uses: llun/feeds@3.0.4
         with:
           storageType: files
-          opmlFile: ./feeds.opml
+          #opmlFile: feeds.opml
           branch: public
           customDomain: osowoso.org/feed
