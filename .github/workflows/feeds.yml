@@ -18,9 +18,9 @@ jobs:
     name: Build static feeds site
     steps:
       - name: Run Action
-        uses: llun/feeds@3.0.4
+        uses: llun/feeds@4.0.3
         with:
           storageType: files
           #opmlFile: feeds.opml
           branch: public
-          customDomain: osowoso.org/feed
+          customDomain: feed.osowoso.org
