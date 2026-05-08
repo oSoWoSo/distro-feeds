@@ -18,7 +18,7 @@ jobs:
     name: Build static feeds site
     steps:
       - name: Run Action
-        uses: llun/feeds@4
+        uses: llun/feeds@4.0.6
         with:
           storageType: files
           #opmlFile: feeds.opml
