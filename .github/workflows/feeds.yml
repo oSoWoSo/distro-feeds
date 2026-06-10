@@ -24,3 +24,28 @@ jobs:
           #opmlFile: feeds.opml
           branch: public
           customDomain: feed.osowoso.org
+
+      - name: Checkout public branch
+        uses: actions/checkout@v6
+        with:
+          ref: public
+
+      - name: Generate releases list
+        run: |
+          {
+            echo "# Latest Distro Releases"
+            echo ""
+            echo "*Updated: $(date +%Y-%m-%d)*"
+            echo ""
+            curl -s https://distrowatch.com/ \
+              | grep -o 'News">.*\.iso[^"]*' \
+              | sed 's/.*">\([^<]*\)<\/a> &bull; <a href="\(http[^"]*\.iso[^"]*\).*/- [\1](\2)/'
+          } > releases.md
+
+      - name: Commit releases list
+        run: |
+          git config user.name "oSoWoSo-bot"
+          git config user.email "mail@osowoso.org"
+          git add releases.md
+          git diff --staged --quiet || git commit -m "Update releases list [skip ci]"
+          git push
