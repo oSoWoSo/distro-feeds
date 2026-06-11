@@ -17,6 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Build static feeds site
     steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v6
+
       - name: Run Action
         uses: llun/feeds@4.0.6
         env:
@@ -34,6 +37,14 @@ jobs:
 
       - name: Generate releases list
         run: |
+          curl -s https://distrowatch.com/ \
+            | grep -o 'News">.*\.iso[^"]*' \
+            | gawk 'match($0, /.*">([^<]+)<\/a> &bull; <a href="(http[^"]*\.iso[^"]*)/, a) {
+                key = tolower(a[1]); gsub(/[^a-z0-9]/, "", key)
+                iso[key] = a[2]
+            }
+            END { for (k in iso) print k "\t" iso[k] }' > /tmp/iso_map.txt
+
           {
             cat << 'EOF'
           <!DOCTYPE html>
@@ -56,9 +67,30 @@ jobs:
           EOF
             echo "  <p class=\"meta\">Updated: $(date +%Y-%m-%d)</p>"
             echo '  <ul>'
-            curl -s https://distrowatch.com/ \
-              | grep -o 'News">.*\.iso[^"]*' \
-              | sed 's/.*">\([^<]*\)<\/a> &bull; <a href="\(http[^"]*\.iso[^"]*\).*/    <li><a href="\2">\1<\/a><\/li>/'
+            curl -s https://distrowatch.com/news/dwd.xml \
+              | gawk -v iso_file="/tmp/iso_map.txt" -v hp_file="${GITHUB_WORKSPACE}/homepages.cfg" '
+                BEGIN {
+                    while ((getline line < iso_file) > 0) { split(line, f, "\t"); iso[f[1]] = f[2] }
+                    while ((getline line < hp_file) > 0) { match(line, /^([^=]+)='([^']+)'/, f); hp[f[1]] = f[2] }
+                }
+                /<item>/ { in_item=1; title=""; slug="" }
+                /<\/item>/ {
+                    if (in_item && title != "") {
+                        key = tolower(slug); gsub(/[^a-z0-9]/, "", key)
+                        n = split(title, parts, " ")
+                        version = parts[n]
+                        name = ""; for (i=1; i<n; i++) name = name (i>1?" ":"") parts[i]
+                        if (key in iso)
+                            printf "    <li><a href=\"%s\">%s</a> <a href=\"%s\">%s</a></li>\n", hp[slug], name, iso[key], version
+                    }
+                    in_item=0
+                }
+                in_item && /<title>/ {
+                    match($0, /<title>([^<]+)<\/title>/, a); title = a[1]
+                }
+                in_item && /<link>/ {
+                    match($0, /distrowatch\.com\/([^<]+)/, a); slug = a[1]
+                }'
             cat << 'EOF'
             </ul>
           </body>

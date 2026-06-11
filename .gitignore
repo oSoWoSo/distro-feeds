@@ -2,4 +2,5 @@
 !.gitignore
 !readme.md
 !feeds.opml
+!homepages.cfg
 !.github
