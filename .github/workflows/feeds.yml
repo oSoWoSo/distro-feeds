@@ -33,19 +33,41 @@ jobs:
       - name: Generate releases list
         run: |
           {
-            echo "# Latest Distro Releases"
-            echo ""
-            echo "*Updated: $(date +%Y-%m-%d)*"
-            echo ""
+            cat << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Latest Distro Releases</title>
+            <style>
+              body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+              a { color: #0070f3; }
+              ul { line-height: 2; }
+              .meta { color: #666; font-size: 0.9rem; }
+              .back { display: inline-block; margin-bottom: 1.5rem; }
+            </style>
+          </head>
+          <body>
+            <a class="back" href="/">← Back</a>
+            <h1>Latest Distro Releases</h1>
+          EOF
+            echo "  <p class=\"meta\">Updated: $(date +%Y-%m-%d)</p>"
+            echo '  <ul>'
             curl -s https://distrowatch.com/ \
               | grep -o 'News">.*\.iso[^"]*' \
-              | sed 's/.*">\([^<]*\)<\/a> &bull; <a href="\(http[^"]*\.iso[^"]*\).*/- [\1](\2)/'
-          } > releases.md
+              | sed 's/.*">\([^<]*\)<\/a> &bull; <a href="\(http[^"]*\.iso[^"]*\).*/    <li><a href="\2">\1<\/a><\/li>/'
+            cat << 'EOF'
+            </ul>
+          </body>
+          </html>
+          EOF
+          } > releases.html
 
       - name: Commit releases list
         run: |
           git config user.name "oSoWoSo-bot"
           git config user.email "mail@osowoso.org"
-          git add releases.md
+          git add releases.html
           git diff --staged --quiet || git commit -m "Update releases list [skip ci]"
           git push
