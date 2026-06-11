@@ -27,80 +27,40 @@ jobs:
           branch: public
           customDomain: feed.osowoso.org
 
-      - name: Checkout public branch
+      - name: Checkout public
         uses: actions/checkout@v6
         with:
           ref: public
 
       - name: Generate releases list
         run: |
-          curl -s "https://raw.githubusercontent.com/${{ github.repository }}/main/homepages.cfg" > /tmp/hp_map.cfg
+          source <(curl -s "https://raw.githubusercontent.com/${{ github.repository }}/main/homepages.cfg")
 
-          curl -s https://distrowatch.com/ \
-            | grep -o 'News">.*\.iso[^"]*' \
-            | gawk 'match($0, /.*">([^<]+)<\/a> &bull; <a href="(http[^"]*\.iso[^"]*)/, a) {
-                key = tolower(a[1]); gsub(/[^a-z0-9]/, "", key)
-                iso[key] = a[2]
-            }
-            END { for (k in iso) print k "\t" iso[k] }' > /tmp/iso_map.txt
+          declare -A iso
+          while IFS=$'\t' read -r k v; do iso[$k]="$v"; done < <(
+            curl -s https://distrowatch.com/ | grep -o 'News">.*\.iso[^"]*' | gawk '
+              match($0, /.*">([^<]+)<\/a> &bull; <a href="(http[^"]*\.iso[^"]*)/, a) {
+                k=tolower(a[1]); gsub(/[^a-z0-9]/,"",k); print k"\t"a[2]}'
+          )
 
-          {
-            cat << 'EOF'
-          <!DOCTYPE html>
-          <html lang="en">
-          <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Latest Distro Releases</title>
-            <style>
-              body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
-              a { color: #0070f3; }
-              ul { line-height: 2; }
-              .meta { color: #666; font-size: 0.9rem; }
-              .back { display: inline-block; margin-bottom: 1.5rem; }
-            </style>
-          </head>
-          <body>
-            <a class="back" href="/">← Back</a>
-            <h1>Latest Distro Releases</h1>
-          EOF
-            echo "  <p class=\"meta\">Updated: $(date +%Y-%m-%d)</p>"
-            echo '  <ul>'
-            curl -s https://distrowatch.com/news/dwd.xml \
-              | gawk -v iso_file="/tmp/iso_map.txt" -v hp_file="/tmp/hp_map.cfg" '
-                BEGIN {
-                    while ((getline line < iso_file) > 0) { split(line, f, "\t"); iso[f[1]] = f[2] }
-                    while ((getline line < hp_file) > 0) { match(line, /^([^=]+)='([^']+)'/, f); hp[f[1]] = f[2] }
-                }
-                /<item>/ { in_item=1; title=""; slug="" }
-                /<\/item>/ {
-                    if (in_item && title != "") {
-                        key = tolower(slug); gsub(/[^a-z0-9]/, "", key)
-                        n = split(title, parts, " ")
-                        version = parts[n]
-                        name = ""; for (i=1; i<n; i++) name = name (i>1?" ":"") parts[i]
-                        if (key in iso)
-                            printf "    <li><a href=\"%s\">%s</a> <a href=\"%s\">%s</a></li>\n", hp[slug], name, iso[key], version
-                    }
-                    in_item=0
-                }
-                in_item && /<title>/ {
-                    match($0, /<title>([^<]+)<\/title>/, a); title = a[1]
-                }
-                in_item && /<link>/ {
-                    match($0, /distrowatch\.com\/([^<]+)/, a); slug = a[1]
-                }'
-            cat << 'EOF'
-            </ul>
-          </body>
-          </html>
-          EOF
-          } > releases.html
+          LIST=$(curl -s https://distrowatch.com/news/dwd.xml | gawk '
+            /<item>/{i=1;t="";s=""} /<\/item>/{if(i&&t)print s"\t"t;i=0}
+            i&&/<title>/{match($0,/<title>([^<]+)<\/title>/,a);t=a[1]}
+            i&&/<link>/{match($0,/distrowatch\.com\/([^<]+)/,a);s=a[1]}' | \
+            while IFS=$'\t' read -r slug title; do
+              k=$(tr -cd a-z0-9 <<< "$slug")
+              [ -n "${iso[$k]}" ] && printf '    <li><a href="%s">%s</a> <a href="%s">%s</a></li>\n' \
+                "${!slug}" "${title% *}" "${iso[$k]}" "${title##* }"
+            done)
+
+          export DATE=$(date +%Y-%m-%d) LIST
+          curl -s "https://raw.githubusercontent.com/${{ github.repository }}/main/releases.tpl" \
+            | envsubst > releases.html
 
       - name: Commit releases list
         run: |
           git config user.name "oSoWoSo-bot"
           git config user.email "mail@osowoso.org"
           git add releases.html
-          git diff --staged --quiet || git commit -m "Update releases list [skip ci]"
+          git diff --staged --quiet || git commit -m "update [skip ci]"
           git push
