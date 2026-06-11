@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Run Action
         uses: llun/feeds@4.0.6
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
         with:
           storageType: files
           #opmlFile: feeds.opml
