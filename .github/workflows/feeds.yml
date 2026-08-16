@@ -17,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Build static feeds site
     steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v6
       - name: Run Action
         uses: llun/feeds@4.3.4
         env:
