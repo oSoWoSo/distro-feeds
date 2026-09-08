@@ -19,7 +19,7 @@ jobs:
     steps:
 
       - name: Run Action
-        uses: llun/feeds@4.3.5
+        uses: llun/feeds@4.6.3
         env:
           NEXT_TELEMETRY_DISABLED: 1
         with:
