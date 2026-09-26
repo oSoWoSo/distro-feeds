@@ -1,0 +1,9 @@
+{
+  "all": "feeds/all.xml",
+  "categories": [
+    {
+      "title": "DistroWatch",
+      "path": "feeds/categories/c589576895799ee306860c43b84ef9289dd022641a29aefd870e067744cd23ed.xml"
+    }
+  ]
+}

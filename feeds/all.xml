@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:60fcec81-1a25-59cc-88a6-c692eb1b80be</id>
+  <title>All Items — Feeds</title>
+  <updated>2026-09-26T01:10:12.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/all.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>All distinct items currently stored by the app</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:5b9ef8a9-7d71-5f12-9be5-a131fcb95758</id>
+    <title>NagisinnraLinux 1.0.8</title>
+    <updated>2026-09-26T01:10:12.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-26T01:10:12.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/nagisinnra"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/d9d1dff8f4eae98aae2d43758c18d91e7274c933855f3c79436ade61c036fafa.png" /&gt; NagisinnraLinux is a Japanese Linux distribution based on Debian's "Stable" branch. Featuring a lightweight Xfce desktop, it is specifically designed to revive older hardware and provide a snappy and minimal, yet fully functional desktop environment for daily use. The distribution's main features include out-of-the-box support for the Japanese language, advanced memory optimisation, use of zram compression to guarantee smooth multitasking, and removal of unnecessary and redundant services to maximise battery life and CPU responsiveness.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:3bee1ea9-8b2e-5daa-89fb-40b74e3716e7</id>
+    <title>VailuxOS 1.6.1.3</title>
+    <updated>2026-09-25T19:00:02.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-25T19:00:02.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/vailuxos"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/4b0853105fb73a75fb4c2c5ba3770ede71e9b611bf227108adfcf79cd637b397.png" /&gt; VailuxOS is a German, desktop-oriented Linux distribution based on Ubuntu's long-term support (LTS) branch or Debian's "Stable" branch. The project's primary goal is to make the transition from Windows to Linux as seamless as possible by maintaining familiar ways of working and workflows. The distribution uses the KDE Plasma desktop.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:48d41391-d10f-5b66-8bf1-15394a965869</id>
+    <title>XBian 2026.09.25</title>
+    <updated>2026-09-25T18:27:47.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-25T18:27:47.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/xbian"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/e56fad045dd6bbd60253934c86d0d72a6f179d1f42528880a6706221d5afb3e0.png" /&gt; XBian is a small, fast and lightweight media centre Linux distribution for the Raspberry Pi range of single-board computers. It is based on a minimal Debian and it boots into a customised Kodi media centre. Besides the standard Kodi configuration module, Xbian provides a custom application for configuring services, package installations, updates, system backups, and user interface preferences. The distribution uses the Btrfs filesystem.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:1d8bdd76-68de-55e7-b3e7-7435b3b7d5af</id>
+    <title>Exton 260925 "LFS"</title>
+    <updated>2026-09-25T11:01:56.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-25T11:01:56.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/exton"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/5bf662725ffeee9e0818e843782d7a0a43d28adf83741471a7cebad83ed5dfad.png" /&gt; Exton Linux is a set of over 15 Linux distributions based on Arch Linux, CRUX, Debian, deepin, Fedora, openSUSE, Puppy Linux and Slackware Linux. They are designed to be lightweight, fast and easy to use. Exton Linux comes with popular pre-configured desktop environments and a set of pre-installed software packages, including web browsers, office suites, multimedia players and development tools. It also includes various customization options, such as the ability to change the appearance of the desktop and install additional software packages. Exton Linux is available in several editions, each tailored to a specific use case, such as general-purpose computing, gaming, multimedia or servers.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:9d3b0f32-7bf5-5e13-b0f6-47b38b557ade</id>
+    <title>StratOS 2026.09.25</title>
+    <updated>2026-09-25T08:12:57.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-25T08:12:57.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/stratos"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/982c56322fd23417c1d87e431f5fc5981e65a7fcce7e706b75456aa06956b26b.png" /&gt; StratOS Linux is an Arch-based Linux distribution which uses scripts from Bedrock Linux to include various packages and repositories from other Linux distributions. It provides several desktop variants featuring the GNOME desktop as well as the Hyprland and the Niri Wayland compositors. The project also develops several custom tools, such as StratVIM (a fork of the Neovim text editor), Rockers (a custom package manager wrapper able to fetch and install binary and source packages from other Linux distributions and from Flatpaks), Stratmacs (a custom Emacs configuration), grab (a fetch script), and Maneki-Neko (a Welcome application).</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:41eb78bb-e325-5082-b2c6-3bc786d51f09</id>
+    <title>Senpai 20260922</title>
+    <updated>2026-09-25T00:55:14.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-25T00:55:14.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/senpai"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/5e65271ff39a60cdb7ae9fb534f6a08e94962b15422a381ef1a8e40c60ad9b37.png" /&gt; Senpai Respins is a set of (principally) MX Linux respins with Cinnamon, GNOME, LXDE, LXQT, MATE and Moksha desktops and window managers, user interfaces that the upstream project does not offer. It also provides a respin of Linux Mint Debian Edition (LMDE) with MATE, and MX Linux with the Parrot distribution installed on top of it. The MX Linux variants offer a choice between the systemd and SysV init systems. Other than integrating a new desktop into an existing distribution, Senpai brings very few other modifications, leaving the software composition and visual appearance of the upstream project intact.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:69301876-6986-5589-ac54-e294833c50d1</id>
+    <title>ML4W 2.16</title>
+    <updated>2026-09-24T19:41:17.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-24T19:41:17.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ml4w"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/79f12c8dba2dece107d4545c0ffd6ba5bccd8299914283bcee6ab3f9d0ebbeac.png" /&gt; ML4W OS is an Arch Linux-based distribution featuring a heavily customised Hyprland tiling compositor. The project specialises primarily in creating advanced configuration for Hyprland, so called "dotfiles", which are available for installation on several other Arch-based distributions, as well as Fedora and openSUSE. However, the live ML4W OS ISO image is a standalone, full-featured Linux distribution with all Hyprland configuration files, applications, icons, themes and wallpapers included. It can be installed to a hard disk using a custom text-mode system installer. The project also provides extensive documentation about setting up and configuring Hyprland.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:b25e8591-452f-53cc-ab54-f8a49fbda12b</id>
+    <title>SweetPotatOs 2026.10</title>
+    <updated>2026-09-24T17:26:18.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-24T17:26:18.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/sweetpotatos"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/28376aa3b6dd0c2cc712da80d33357f0a5490b6c2a7f6c55217c1eb6d3e46c27.png" /&gt; SweetPotatOs is a lightweight, Arch-based Linux distribution designed specifically for older computers. It uses a Wayland tiling compositor called Swirl (a fork of Sway and Scroll) with a layout inspired by niri. The distribution can be installed to a hard disk with the help of the Calamares system installer. In its default state, SweetPotatOs ships a number of popular applications, including the Firefox web browser, the Gimp image editor and the Transmission bittorrent client. It also includes Shelly, a graphical package management utility.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:e0dd8195-1d02-5fa7-a8df-aa815578edfe</id>
+    <title>Argent 1.5.3-rc8</title>
+    <updated>2026-09-23T20:12:43.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-23T20:12:43.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/argent"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/3d29a70a77e3e43ef373b1c613179fedb4bebe3542476ea8ddb87e39ad52ead4.png" /&gt; Argent Linux is a Gentoo-based Linux distribution featuring the KDE Plasma desktop and designed for workstations and servers. It uses the systemd service manager which, as it is not available in the upstream Gentoo repositories, the project itself provides in the form of binary packages. The distribution favours the epkg package manager, a highly simplistic wrapper over portage, specially designed for precompiled binaries. Argent Linux maintains a semi-rolling release model, with a stable branch and a development (testing) branch.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:f3389cb7-2155-5579-91aa-cc53b54a5b64</id>
+    <title>BRGV-OS 23092026</title>
+    <updated>2026-09-23T11:43:02.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-23T11:43:02.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/brgv"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/201882b2217349fc9aec17605fb2a7f4bd098232d236df29bf16daad0dc636f0.png" /&gt; BRGV-OS is a rolling-release Linux distribution based on Void and featuring a customised GNOME desktop with variety of unique themes. It offers out-of-the-box support for English and Romanian languages. The project aims to facilitate developers, researchers and users to transition from Windows or macOS to Linux by maintaining familiar operational habits and workflows. BRGV-OS was originally created for Banca de Resurse Genetice Vegetale (BRGV), a gene bank research institute in Suceava, Romania, and is now also available to the general public.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:be3a2fb5-b4fd-55e2-ad33-a043ceb01227</id>
+    <title>NebiOS 10.3-dev2026.09.22</title>
+    <updated>2026-09-23T05:00:03.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-23T05:00:03.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/nebios"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/171717dd7f42cb6564948fd5bacf944306ecdad8c9b2737a6280a28038ad8b78.png" /&gt; NebiOS is an Ubuntu-based desktop Linux distribution with a custom Wayland compositor called NebiDE (based on Wayfire). It features various user interface enhancements, an initial setup module called OOBE, the NebiOS App Runtime (napp-runtime) portable application format with bubblewrap containerization, improved gaming performance with Steam Proton integration, a kernel switcher for easy multi-kernel installation, and the Wine compatibility layer for running some Windows applications. NebiOS is intended as a general-purpose operating system for daily computing tasks, including creative work and gaming.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d2707418-43a4-53f0-abdc-1cbe3a40496c</id>
+    <title>BlueOnyx 5212R-20260921</title>
+    <updated>2026-09-23T03:57:22.000Z</updated>
+    <author>
+      <name>DistroWatch</name>
+    </author>
+    <published>2026-09-23T03:57:22.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/blueonyx"/>
+    <category term="DistroWatch"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/8f7c2ceffe1633ddc52926d5c1d805b05a5509698461339dae6c694a930a9ac3.png" /&gt; BlueOnyx is a server distribution based on AlmaLinux OS. It is the mission of BlueOnyx to provide a fully-integrated Internet hosting platform that includes web, e-mail, DNS and file transfer services from a simple, user-friendly web-based interface that is easily installed on commodity hardware or virtual private server.</content>
+    <source>
+      <title>DistroWatch</title>
+      <link rel="self" href="https://distrowatch.com/news/dwd.xml"/>
+      <link rel="alternate" href="https://distrowatch.com/"/>
+    </source>
+  </entry>
+</feed>
