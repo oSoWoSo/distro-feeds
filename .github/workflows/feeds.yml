@@ -13,20 +13,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  feeds:
+  # Must run before "feeds": llun/feeds deletes every file it does not own from
+  # the public branch when it force-pushes, so releases.* has to be pushed
+  # first and restored afterwards. Publishing early also lets the action read
+  # releases.xml from the raw public branch in the same run, instead of waiting
+  # for the next one.
+  releases:
     runs-on: ubuntu-latest
-    name: Build static feeds site
+    name: Generate releases
     steps:
-
-      - name: Run Action
-        uses: llun/feeds@4.7.2
-        env:
-          NEXT_TELEMETRY_DISABLED: 1
-        with:
-          storageType: files
-          #opmlFile: feeds.opml
-          branch: public
-          customDomain: feed.osowoso.org
 
       - name: Checkout public
         uses: actions/checkout@v6
@@ -47,5 +42,49 @@ jobs:
           git config user.name "oSoWoSo-bot"
           git config user.email "mail@osowoso.org"
           git add -f releases.html releases.xml releases.cache.json
-          git diff --staged --quiet || git commit -m "update [skip ci]"
+          git diff --staged --quiet || git commit -m "update releases [skip ci]"
+          git push
+
+      - name: Upload releases
+        uses: actions/upload-artifact@v4
+        with:
+          name: releases
+          path: |
+            releases.html
+            releases.xml
+            releases.cache.json
+
+  feeds:
+    needs: releases
+    runs-on: ubuntu-latest
+    name: Build static feeds site
+    steps:
+
+      - name: Run Action
+        uses: llun/feeds@4.7.2
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
+        with:
+          storageType: files
+          #opmlFile: feeds.opml
+          branch: public
+          customDomain: feed.osowoso.org
+
+      - name: Checkout public
+        uses: actions/checkout@v6
+        with:
+          ref: public
+
+      - name: Download releases
+        uses: actions/download-artifact@v4
+        with:
+          name: releases
+          path: .
+
+      - name: Restore releases list
+        run: |
+          git config user.name "oSoWoSo-bot"
+          git config user.email "mail@osowoso.org"
+          git add -f releases.html releases.xml releases.cache.json
+          git diff --staged --quiet || git commit -m "update releases [skip ci]"
           git push

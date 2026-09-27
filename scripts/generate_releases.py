@@ -15,7 +15,9 @@ Sources
 Nothing here is allowed to fail the build: only the DistroWatch feed is fatal,
 every other source degrades to "no data".  Discovered homepages are cached in
 releases.cache.json and reused on the next run so the slow per-distro scraping
-only happens when a new release shows up.
+only happens when a new release shows up.  The cache is read back from the
+public branch on GitHub, not from the live site, because the feeds action
+force-pushes that branch and drops the generated files it does not own.
 """
 
 from __future__ import annotations
@@ -35,7 +37,8 @@ import xml.etree.ElementTree as ET
 DWD_FEED = "https://distrowatch.com/news/dwd.xml"
 DISTROWATCH = "https://distrowatch.com/"
 SITE = "https://feed.osowoso.org"
-PUBLISHED_CACHE = f"{SITE}/releases.cache.json"
+RAW_PUBLIC = "https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public"
+PUBLISHED_CACHE = f"{RAW_PUBLIC}/releases.cache.json"
 HOMEPAGES_DEFAULT = "homepages.cfg"
 
 UA = (
@@ -395,10 +398,7 @@ def render_atom(releases: list[dict[str, str]], updated: str) -> str:
             lines.append(
                 f'<a href="{html.escape(release["homepage"], quote=True)}">Homepage</a>'
             )
-        lines.append(f'<a href="{html.escape(release["url"], quote=True)}">homepage</a>')
-        parts.append("<p>" + "<br />\n".join(lines) + "</p>")
-        ET.SubElement(entry, "content", {"type": "html"}).text = "\n".join(parts)
-      if release["iso"]:
+        if release["iso"]:
             lines.append(
                 f'<a href="{html.escape(release["iso"], quote=True)}">ISO</a>'
             )
