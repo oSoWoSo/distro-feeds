@@ -393,7 +393,7 @@ def render_atom(releases: list[dict[str, str]], updated: str) -> str:
         lines = []
         if release["homepage"]:
             lines.append(
-                f'<a href="{html.escape(release["homepage"], quote=True)}">Homepage '
+                f'<a href="{html.escape(release["homepage"], quote=True)}">Homepage</a>'
             )
         lines.append(f'<a href="{html.escape(release["url"], quote=True)}">homepage</a>')
         parts.append("<p>" + "<br />\n".join(lines) + "</p>")
@@ -402,10 +402,13 @@ def render_atom(releases: list[dict[str, str]], updated: str) -> str:
             lines.append(
                 f'<a href="{html.escape(release["iso"], quote=True)}">ISO</a>'
             )
-        lines.append(f'<a href="{html.escape(release["url"], quote=True)}">DistroWatch</a>')
+        lines.append(
+            f'<a href="{html.escape(release["url"], quote=True)}">DistroWatch</a>'
+        )
         parts.append("<p>" + "<br />\n".join(lines) + "</p>")
         ET.SubElement(entry, "content", {"type": "html"}).text = "\n".join(parts)
 
+    ET.indent(root, space="  ")
     body = ET.tostring(root, encoding="unicode")
     return '<?xml version="1.0" encoding="UTF-8"?>\n' + body + "\n"
 
