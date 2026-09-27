@@ -5,6 +5,7 @@
 !homepages.cfg
 !config.sh.local
 !src/
+!scripts/
 !pages/
 !static/
 !.github

@@ -33,35 +33,19 @@ jobs:
         with:
           ref: public
 
+      - name: Fetch release generator
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          path: sources
+
       - name: Generate releases list
-        run: |
-          source <(curl -s "https://raw.githubusercontent.com/${{ github.repository }}/main/homepages.cfg")
-
-          declare -A iso
-          while IFS=$'\t' read -r k v; do iso[$k]="$v"; done < <(
-            curl -s https://distrowatch.com/ | grep -o 'News">.*\.iso[^"]*' | gawk '
-              match($0, /.*">([^<]+)<\/a> &bull; <a href="(http[^"]*\.iso[^"]*)/, a) {
-                k=tolower(a[1]); gsub(/[^a-z0-9]/,"",k); print k"\t"a[2]}'
-          )
-
-          LIST=$(curl -s https://distrowatch.com/news/dwd.xml | gawk '
-            /<item>/{i=1;t="";s=""} /<\/item>/{if(i&&t)print s"\t"t;i=0}
-            i&&/<title>/{match($0,/<title>([^<]+)<\/title>/,a);t=a[1]}
-            i&&/<link>/{match($0,/distrowatch\.com\/([^<]+)/,a);s=a[1]}' | \
-            while IFS=$'\t' read -r slug title; do
-              k=$(tr -cd a-z0-9 <<< "$slug")
-              [ -n "${iso[$k]}" ] && printf '    <li><a href="%s">%s</a> <a href="%s">%s</a></li>\n' \
-                "${!slug}" "${title% *}" "${iso[$k]}" "${title##* }"
-            done)
-
-          export DATE=$(date +%Y-%m-%d) LIST
-          curl -s "https://raw.githubusercontent.com/${{ github.repository }}/main/releases.tpl" \
-            | envsubst > releases.html
+        run: python3 sources/scripts/generate_releases.py --homepages sources/homepages.cfg --output-dir .
 
       - name: Commit releases list
         run: |
           git config user.name "oSoWoSo-bot"
           git config user.email "mail@osowoso.org"
-          git add releases.html
+          git add -f releases.html releases.xml releases.cache.json
           git diff --staged --quiet || git commit -m "update [skip ci]"
           git push
