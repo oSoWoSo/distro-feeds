@@ -4,9 +4,6 @@
     <title>Feeds</title>
   </head>
   <body>
-    <outline text="DistroWatch" title="DistroWatch">
-      <outline text="DistroWatch" htmlUrl="https://distrowatch.com" xmlUrl="https://distrowatch.com/news/dwd.xml" title="DistroWatch" type="rss" />
-    </outline>
     <outline text="Releases" title="Releases">
       <outline text="Releases" htmlUrl="https://feed.osowoso.org/releases.html" xmlUrl="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml" title="Releases" type="rss" />
     </outline>

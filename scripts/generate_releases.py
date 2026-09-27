@@ -186,14 +186,17 @@ def parse_feed(raw: str) -> list[dict[str, str]]:
     return entries
 
 
-def parse_table(raw: str) -> dict[str, dict[str, str]]:
-    """The release table, keyed by slug.
+def parse_table(raw: str) -> dict[str, list[dict[str, str]]]:
+    """The release table, as a list of rows per slug, newest row first.
 
     Only rows whose first anchor carries a `title` attribute and a bare
     relative href are releases; the same `class="News"` markup is reused by the
     waiting-list and podcast tables, which only ever link out absolutely.
+
+    The table covers a couple of weeks, so one distribution can be listed more
+    than once; see pick_row().
     """
-    table: dict[str, dict[str, str]] = {}
+    table: dict[str, list[dict[str, str]]] = {}
     for row in ROW_RE.finditer(raw):
         head = NAME_RE.search(row.group("cell"))
         if not head:
@@ -207,14 +210,31 @@ def parse_table(raw: str) -> dict[str, dict[str, str]]:
                 fallback_url = href
             if not iso_url and any(href.lower().endswith(hint) or hint in href.lower() for hint in ISO_HINTS):
                 iso_url = href
-        slug = head.group("slug").lower()
-        table[slug] = {
-            "name": plain(head.group("name")),
-            "version": plain(re.sub(r"&bull;?", " ", tail)),
-            "iso": iso_url or fallback_url,
-            "description": plain(head.group("desc")),
-        }
+        table.setdefault(head.group("slug").lower(), []).append(
+            {
+                "date": row.group("date").strip(),
+                "name": plain(head.group("name")),
+                "version": plain(re.sub(r"&bull;?", " ", tail)),
+                "iso": iso_url or fallback_url,
+                "description": plain(head.group("desc")),
+            }
+        )
     return table
+
+
+def pick_row(rows: list[dict[str, str]], month_day: str) -> dict[str, str]:
+    """The table row belonging to a feed item, given its MM-DD publication day.
+
+    Keying on the day first keeps an older release of the same distribution -
+    which often has no download link - from shadowing the current one.
+    """
+    for row in rows:
+        if row["date"] == month_day:
+            return row
+    with_iso = [row for row in rows if row["iso"]]
+    if with_iso:
+        return with_iso[0]
+    return rows[0] if rows else {}
 
 
 def discover_homepage(slug: str, timeout: float) -> str:
@@ -248,12 +268,12 @@ def collect(args: argparse.Namespace) -> list[dict[str, str]]:
     except RuntimeError as error:
         log(f"warning: {error} - continuing without download links")
         table = {}
-    log(f"release table has {len(table)} row(s)")
+    log(f"release table has {sum(len(v) for v in table.values())} row(s) in {len(table)} distribution(s)")
 
     releases = []
     for entry in entries:
         slug = entry["slug"]
-        row = table.get(slug, {})
+        row = pick_row(table.get(slug, []), entry["date"][5:])
         name = row.get("name") or entry["title"]
         title = entry["title"]
         if title.startswith(name):

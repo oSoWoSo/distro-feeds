@@ -10,7 +10,7 @@ Another sample sites:
 ## Releases page
 
 `scripts/generate_releases.py` builds `releases.html`, `releases.xml` (an Atom
-feed consumed as the "Releases" category in `feeds.opml`) and
+feed consumed as the only "Releases" category in `feeds.opml`) and
 `releases.cache.json` from DistroWatch. Run it from the repo root:
 
     python3 scripts/generate_releases.py
@@ -35,3 +35,9 @@ That order matters: `feeds.opml` points the "Releases" category at the raw
 `releases.xml` on the `public` branch, so the feed has to be committed before
 the action fetches it, otherwise the category is published empty and only fills
 in on a later run.
+
+"Releases" is the only category on purpose. Entry identity is the SHA-256 of
+the original article URL, and the raw DistroWatch feed points at the very same
+distribution pages, so listing both feeds made them collide into one entry whose
+content came from whichever feed was read first - the link-less DistroWatch one,
+which silently dropped the homepage and ISO links from the published feed.
