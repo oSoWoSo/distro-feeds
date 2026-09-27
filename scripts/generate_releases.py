@@ -393,14 +393,16 @@ def render_atom(releases: list[dict[str, str]], updated: str) -> str:
         lines = []
         if release["homepage"]:
             lines.append(
-                f'<a href="{html.escape(release["homepage"], quote=True)}">Homepage: '
-                f'{html.escape(release["homepage"])}</a>'
+                f'<a href="{html.escape(release["homepage"], quote=True)}">Homepage '
             )
-        if release["iso"]:
+        lines.append(f'<a href="{html.escape(release["url"], quote=True)}">homepage</a>')
+        parts.append("<p>" + "<br />\n".join(lines) + "</p>")
+        ET.SubElement(entry, "content", {"type": "html"}).text = "\n".join(parts)
+      if release["iso"]:
             lines.append(
-                f'<a href="{html.escape(release["iso"], quote=True)}">Download ISO</a>'
+                f'<a href="{html.escape(release["iso"], quote=True)}">ISO</a>'
             )
-        lines.append(f'<a href="{html.escape(release["url"], quote=True)}">DistroWatch page</a>')
+        lines.append(f'<a href="{html.escape(release["url"], quote=True)}">DistroWatch</a>')
         parts.append("<p>" + "<br />\n".join(lines) + "</p>")
         ET.SubElement(entry, "content", {"type": "html"}).text = "\n".join(parts)
 
