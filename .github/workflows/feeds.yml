@@ -24,12 +24,12 @@ jobs:
     steps:
 
       - name: Checkout public
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           ref: public
 
       - name: Fetch release generator
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           ref: main
           path: sources
@@ -46,7 +46,7 @@ jobs:
           git push
 
       - name: Upload releases
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: releases
           path: |
@@ -71,12 +71,12 @@ jobs:
           customDomain: feed.osowoso.org
 
       - name: Checkout public
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           ref: public
 
       - name: Download releases
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: releases
           path: .
