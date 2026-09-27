@@ -3,5 +3,8 @@
 !readme.md
 !feeds.opml
 !homepages.cfg
-!releases.tpl
+!config.sh.local
+!src/
+!pages/
+!static/
 !.github
