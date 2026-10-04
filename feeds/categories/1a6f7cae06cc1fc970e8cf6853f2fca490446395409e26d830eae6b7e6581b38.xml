@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:74eb1bff-5f01-5348-b735-10ba193f7e3e</id>
+  <title>Releases — Feeds</title>
+  <updated>2026-10-04T02:00:01.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>Distinct stored items belonging to Releases</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:77aa77c7-98de-5775-96c9-f7b491e618f9</id>
+    <title>ShrikeLinux 2026.10.04</title>
+    <updated>2026-10-04T02:00:01.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-04T02:00:01.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/shrikelinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/06fdfb1d2b396728045bf60cb0f574b257b717c343d4841685c6f528b5d1a138.png" alt="ShrikeLinux" /&gt;
+&lt;p&gt;ShrikeLinux is an Arch Linux-based distribution featuring a customised Xfce desktop. It offers three separate edition with different Linux kernels: a long-term supported Linux kernel for servers and workstations that require rock-solid stability, the latest stable Linux kernel as provided upstream by Arch Linux, and a "Zen" Linux kernel optimised for performance, gaming and power use. The distribution is developed by Free and Open Source Software Community in Uganda.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://shrikelinuxug.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/shrikelinux/files/ShrikeLinux-LTS-2026-iso/ShrikeLinux-LTS-2026.10.04-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/shrikelinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:782a0cab-5772-5806-a7af-fb3ca4240033</id>
+    <title>LCOS 0.8</title>
+    <updated>2026-10-04T01:00:06.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-04T01:00:06.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/lcos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/49d9f9c38f3c9cb6f4b1dd4f04e5c9075571542eedf9f08582dab680bdee17b8.png" alt="LCOS" /&gt;
+&lt;p&gt;LCOS (Lunduke Computer Operating System) is a minimalist desktop Linux distribution based on Devuan and featuring the Xfce desktop. The goal of the project is to develop a usable operating system that does not require any online accounts, age verification or any other form of authentication. It also excludes artificial intelligence (AI) features and utilities written in the Rust programming language. LCOS uses the Calamares system installer, SysV init system, Xlibre display server, the GNOME Office suite (AbiWord and Gnumeric) and Brave Origin as the preferred browser.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/BryanLunduke/LCOS"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/BryanLunduke/LCOS/releases/download/0.8/lcos-08.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lcos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:c826f783-3a6e-5164-b893-708df3218b76</id>
+    <title>BigLinux 2026-10-03</title>
+    <updated>2026-10-04T00:00:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-04T00:00:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/biglinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/1bcfc3d6148523d2900000a217eb9dbe5d842850fe035818ffbd5c0607fd0b49.png" alt="BigLinux" /&gt;
+&lt;p&gt;BigLinux is a Brazilian Linux distribution localised into Brazilian Portuguese (with support for English). It is was originally based on Kubuntu, but starting from 2017 the distribution was re-born based on deepin. It then offered two desktop environments - Cinnamon and Deepin. In 2021 the distribution switched bases and desktop environments again, migrating to Manjaro Linux and using the KDE Plasma desktop.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.biglinux.com.br/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://iso.biglinux.com.br/biglinux_2026-10-03_k72.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/biglinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:51580c66-c99a-564d-9513-96621586ca48</id>
+    <title>Calculate 20261003</title>
+    <updated>2026-10-03T23:00:30.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T23:00:30.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/calculate"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/afd6d2864ccea02c50927bd0087da8f0230abab52b00b04244d4d2b05fded0f9.png" alt="Calculate" /&gt;
+&lt;p&gt;Calculate Linux is a Gentoo-based family of three distinguished distributions. Calculate Directory Server (CDS) is a solution that supports Windows and Linux clients via LDAP + SAMBA, providing proxy, mail and Jabbers servers with streamlined user management. Calculate Linux Desktop (CLD) is a workstation and client distribution (with a choice of Cinnamon, KDE Plasma, LXQt, MATE or Xfce desktops) that includes a wizard to configure a connection to Calculate Directory Server. Calculate Linux Scratch (CLS) is a live CD with a build framework for creating a custom distribution.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.calculate-linux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://mirror.calculate-linux.org/release/20261003/cld-20261003-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/calculate"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:ece3bdc7-64f9-5181-8dd5-46b7c1b1800b</id>
+    <title>AnduinOS 2.0.4</title>
+    <updated>2026-10-03T22:00:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T22:00:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/anduin"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/c649356cd0484a37889b5b87d1e829cf36178c797cefef894187f2ce7c42914b.png" alt="AnduinOS" /&gt;
+&lt;p&gt;AnduinOS is an Ubuntu-based distribution which provides a GNOME desktop which has been themed and styled to resemble Windows 11. The project provides a smaller ISO file than its parent with each supported language split into a separate ISO. Snap support, which is included in Ubuntu, has been removed from AnduinOS.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.anduinos.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cf.anduinos.com/AnduinOS-2.0.4-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/anduin"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:1d8bdd76-68de-55e7-b3e7-7435b3b7d5af</id>
+    <title>Exton 261003 "ArchEX"</title>
+    <updated>2026-10-03T21:00:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T21:00:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/exton"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/5bf662725ffeee9e0818e843782d7a0a43d28adf83741471a7cebad83ed5dfad.png" alt="Exton" /&gt;
+&lt;p&gt;Exton Linux is a set of over 15 Linux distributions based on Arch Linux, CRUX, Debian, deepin, Fedora, openSUSE, Puppy Linux and Slackware Linux. They are designed to be lightweight, fast and easy to use. Exton Linux comes with popular pre-configured desktop environments and a set of pre-installed software packages, including web browsers, office suites, multimedia players and development tools. It also includes various customization options, such as the ability to change the appearance of the desktop and install additional software packages. Exton Linux is available in several editions, each tailored to a specific use case, such as general-purpose computing, gaming, multimedia or servers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.exton.se/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/archex/files/archex-64bit-lxqt-calamares-refractasnapshot-2740mb-261003.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/exton"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:5889c543-75c7-5985-8938-83b071217c29</id>
+    <title>Puppy 2026-261003</title>
+    <updated>2026-10-03T20:02:06.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T20:02:06.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/puppy"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/8b40ceed5a509567afca9c9a552c29d41f809dc6f31168b2e75fa20e557f5e9b.png" alt="Puppy" /&gt;
+&lt;p&gt;Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://puppylinux-woof-ce.github.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/pb-gh-releases/files/TrixiePup64-Wayland_release-261003/TrixiePup64-Wayland-2606-261003.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/puppy"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:dd36dba2-9715-5a1a-b09f-ad000d945e7a</id>
+    <title>Parrot 7.4</title>
+    <updated>2026-10-03T18:58:17.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T18:58:17.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/parrot"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/858e68451ffe04d6684f0c272b27d70048678668903df34e48c1608d0fb464e9.png" alt="Parrot" /&gt;
+&lt;p&gt;Parrot (formerly Parrot Security OS) is a Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography. The product, developed by Frozenbox, comes with MATE as the default desktop environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://parrotsec.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://deb.parrot.sh/parrot/iso/7.4/Parrot-home-7.4_amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/parrot"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:c919f15d-b735-5dcf-ba45-46ea9dc1242c</id>
+    <title>Abora 2026.10.03</title>
+    <updated>2026-10-03T18:00:59.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T18:00:59.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/abora"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/dec8059f735bb247cf512c40c7904466787f6e09a7766ad8c0b3db950b3b6932.png" alt="Abora" /&gt;
+&lt;p&gt;Abora OS is general-purpose Linux distribution based on NixOS. It boots into a text-mode installation wizard that offers the user various options, including a choice of over 20 desktop environments, window managers and Wayland compositors, as well as several application bundles for a range of use cases. Some of the distribution's other features include out-of-the-box support for flatpak packages, Limine bootloader, command-line system management layer called ANIX, application management layer called TinyPM, and several custom Abora system management tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.aboraos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/AnimatedGTVR/Abora-OS/releases/download/v4.1/abora-cosmic-2026.10.03-x86_64-v4.1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/abora"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:094751b5-30de-59a5-88c8-5cd30d05569e</id>
+    <title>Vendefoul 20261003</title>
+    <updated>2026-10-03T15:45:53.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T15:45:53.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/vendefoul"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/f604197600955074ba22fa0d0ebfc0274353590758892897d88348f81b5b7760.png" alt="Vendefoul" /&gt;
+&lt;p&gt;Vendefoul Wolf is a set of lightweight, Devuan-based Linux distributions featuring various popular desktop environments, including Budgie, Cinnamon, KDE Plasma, LXQt, Trinity and Xfce. As the init software, it offers a choice between SysV and runit. Some of the distribution's other main features include the LibreWolf web browser, the Calamares system installer, an application store, and its own repository of software packages. Besides the main edition, Vendefoul Wolf also produces various community spins with alternative desktops and window managers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vendefoul-wolf-linux.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/vendefoul-wolf-linux/files/Vendefoul%20Wolf%20Excalibur/SonicDE/Vendefoul_Excalibur_SonicDE_6-7-2_XLibre_OpenRC_Lupinus-20261003_1401.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/vendefoul"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:4a1f166a-266c-5240-a2f4-25c31a28305d</id>
+    <title>Whonix 18.2.3.3</title>
+    <updated>2026-10-03T11:06:31.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T11:06:31.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/whonix"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/40e8874a3e547e9ef38d46c4ceafc8dc8fe26b118191a9dc83e1278bda98830b.png" alt="Whonix" /&gt;
+&lt;p&gt;Whonix is an operating system focused on anonymity, privacy and security. It is based on the Tor anonymity network, Debian GNU/Linux and security by isolation. Whonix consists of two parts: One solely runs Tor and acts as a gateway, which is called Whonix-Gateway. The other, which is called Whonix-Workstation, is on a completely isolated network. Only connections through Tor are possible. With Whonix, you can use applications and run servers anonymously over the Internet. DNS leaks are impossible, and even malware with root privileges cannot find out the user's real IP.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.whonix.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.whonix.org/ova/18.2.3.3/Whonix-LXQt-18.2.3.3.Intel_AMD64.ova"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/whonix"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:1a1241be-862b-5948-ad2e-976696f99f99</id>
+    <title>Kicksecure 18.2.3.3</title>
+    <updated>2026-10-03T10:00:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-03T10:00:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/kicksecure"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/e9ab4df06e8f4de02a770fff5f594461c2e1223a753bf4c141e830957b70cd1b.png" alt="Kicksecure" /&gt;
+&lt;p&gt;Kicksecure is a security-hardened Linux distribution based on Debian's "Stable" branch, with Xfce as the default desktop user interface. It is a hardened operating system designed to be resistant to viruses, malware and attacks, and extensively reconfigured in accordance with an advanced multi-layer defense model, thereby providing in-depth security. Kicksecure provides protection from many types of malware in its default configuration with no customization required.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.kicksecure.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.kicksecure.com/download/iso/18.2.3.3/Kicksecure-LXQt-18.2.3.3.Intel_AMD64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/kicksecure"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>

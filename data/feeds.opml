@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Feeds</title>
+  </head>
+  <body>
+    <outline text="Releases" title="Releases">
+      <outline text="Releases" htmlUrl="https://feed.osowoso.org/releases.html" xmlUrl="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml" title="Releases" type="rss" />
+    </outline>
+  </body>
+</opml>
