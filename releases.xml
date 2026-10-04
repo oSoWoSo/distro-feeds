@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DistroWatch releases</title>
+  <subtitle>Latest distribution releases with homepage and download links</subtitle>
+  <id>https://feed.osowoso.org/releases.xml</id>
+  <updated>2026-10-04T03:46:09+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/releases.xml" />
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/releases.html" />
+  <entry>
+    <title>ShrikeLinux 2026.10.04</title>
+    <id>https://distrowatch.com/shrikelinux</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/shrikelinux" />
+    <published>2026-10-04T02:00:01+00:00</published>
+    <updated>2026-10-04T02:00:01+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/shrikelinux.png" alt="ShrikeLinux" /&gt;
+&lt;p&gt;ShrikeLinux is an Arch Linux-based distribution featuring a customised Xfce desktop. It offers three separate edition with different Linux kernels: a long-term supported Linux kernel for servers and workstations that require rock-solid stability, the latest stable Linux kernel as provided upstream by Arch Linux, and a &amp;quot;Zen&amp;quot; Linux kernel optimised for performance, gaming and power use. The distribution is developed by Free and Open Source Software Community in Uganda.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://shrikelinuxug.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/shrikelinux/files/ShrikeLinux-LTS-2026-iso/ShrikeLinux-LTS-2026.10.04-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/shrikelinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>LCOS 0.8</title>
+    <id>https://distrowatch.com/lcos</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/lcos" />
+    <published>2026-10-04T01:00:06+00:00</published>
+    <updated>2026-10-04T01:00:06+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/lcos.png" alt="LCOS" /&gt;
+&lt;p&gt;LCOS (Lunduke Computer Operating System) is a minimalist desktop Linux distribution based on Devuan and featuring the Xfce desktop. The goal of the project is to develop a usable operating system that does not require any online accounts, age verification or any other form of authentication. It also excludes artificial intelligence (AI) features and utilities written in the Rust programming language. LCOS uses the Calamares system installer, SysV init system, Xlibre display server, the GNOME Office suite (AbiWord and Gnumeric) and Brave Origin as the preferred browser.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/BryanLunduke/LCOS"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/BryanLunduke/LCOS/releases/download/0.8/lcos-08.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lcos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>BigLinux 2026-10-03</title>
+    <id>https://distrowatch.com/biglinux</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/biglinux" />
+    <published>2026-10-04T00:00:00+00:00</published>
+    <updated>2026-10-04T00:00:00+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/biglinux.png" alt="BigLinux" /&gt;
+&lt;p&gt;BigLinux is a Brazilian Linux distribution localised into Brazilian Portuguese (with support for English). It is was originally based on Kubuntu, but starting from 2017 the distribution was re-born based on deepin. It then offered two desktop environments - Cinnamon and Deepin. In 2021 the distribution switched bases and desktop environments again, migrating to Manjaro Linux and using the KDE Plasma desktop.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.biglinux.com.br/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://iso.biglinux.com.br/biglinux_2026-10-03_k72.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/biglinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Calculate 20261003</title>
+    <id>https://distrowatch.com/calculate</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/calculate" />
+    <published>2026-10-03T23:00:30+00:00</published>
+    <updated>2026-10-03T23:00:30+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/calculate.png" alt="Calculate" /&gt;
+&lt;p&gt;Calculate Linux is a Gentoo-based family of three distinguished distributions. Calculate Directory Server (CDS) is a solution that supports Windows and Linux clients via LDAP + SAMBA, providing proxy, mail and Jabbers servers with streamlined user management. Calculate Linux Desktop (CLD) is a workstation and client distribution (with a choice of Cinnamon, KDE Plasma, LXQt, MATE or Xfce desktops) that includes a wizard to configure a connection to Calculate Directory Server. Calculate Linux Scratch (CLS) is a live CD with a build framework for creating a custom distribution.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.calculate-linux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://mirror.calculate-linux.org/release/20261003/cld-20261003-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/calculate"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>AnduinOS 2.0.4</title>
+    <id>https://distrowatch.com/anduin</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/anduin" />
+    <published>2026-10-03T22:00:00+00:00</published>
+    <updated>2026-10-03T22:00:00+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/anduin.png" alt="AnduinOS" /&gt;
+&lt;p&gt;AnduinOS is an Ubuntu-based distribution which provides a GNOME desktop which has been themed and styled to resemble Windows 11. The project provides a smaller ISO file than its parent with each supported language split into a separate ISO. Snap support, which is included in Ubuntu, has been removed from AnduinOS.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.anduinos.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cf.anduinos.com/AnduinOS-2.0.4-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/anduin"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Exton 261003 "ArchEX"</title>
+    <id>https://distrowatch.com/exton</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/exton" />
+    <published>2026-10-03T21:00:00+00:00</published>
+    <updated>2026-10-03T21:00:00+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/exton.png" alt="Exton" /&gt;
+&lt;p&gt;Exton Linux is a set of over 15 Linux distributions based on Arch Linux, CRUX, Debian, deepin, Fedora, openSUSE, Puppy Linux and Slackware Linux. They are designed to be lightweight, fast and easy to use. Exton Linux comes with popular pre-configured desktop environments and a set of pre-installed software packages, including web browsers, office suites, multimedia players and development tools. It also includes various customization options, such as the ability to change the appearance of the desktop and install additional software packages. Exton Linux is available in several editions, each tailored to a specific use case, such as general-purpose computing, gaming, multimedia or servers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.exton.se/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/archex/files/archex-64bit-lxqt-calamares-refractasnapshot-2740mb-261003.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/exton"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Puppy 2026-261003</title>
+    <id>https://distrowatch.com/puppy</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/puppy" />
+    <published>2026-10-03T20:02:06+00:00</published>
+    <updated>2026-10-03T20:02:06+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/puppy.png" alt="Puppy" /&gt;
+&lt;p&gt;Puppy Linux is yet another Linux distribution. What&amp;#x27;s different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://puppylinux-woof-ce.github.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/pb-gh-releases/files/TrixiePup64-Wayland_release-261003/TrixiePup64-Wayland-2606-261003.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/puppy"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Parrot 7.4</title>
+    <id>https://distrowatch.com/parrot</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/parrot" />
+    <published>2026-10-03T18:58:17+00:00</published>
+    <updated>2026-10-03T18:58:17+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/parrot.png" alt="Parrot" /&gt;
+&lt;p&gt;Parrot (formerly Parrot Security OS) is a Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography. The product, developed by Frozenbox, comes with MATE as the default desktop environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://parrotsec.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://deb.parrot.sh/parrot/iso/7.4/Parrot-home-7.4_amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/parrot"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Abora 2026.10.03</title>
+    <id>https://distrowatch.com/abora</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/abora" />
+    <published>2026-10-03T18:00:59+00:00</published>
+    <updated>2026-10-03T18:00:59+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/abora.png" alt="Abora" /&gt;
+&lt;p&gt;Abora OS is general-purpose Linux distribution based on NixOS. It boots into a text-mode installation wizard that offers the user various options, including a choice of over 20 desktop environments, window managers and Wayland compositors, as well as several application bundles for a range of use cases. Some of the distribution&amp;#x27;s other features include out-of-the-box support for flatpak packages, Limine bootloader, command-line system management layer called ANIX, application management layer called TinyPM, and several custom Abora system management tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.aboraos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/AnimatedGTVR/Abora-OS/releases/download/v4.1/abora-cosmic-2026.10.03-x86_64-v4.1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/abora"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Vendefoul 20261003</title>
+    <id>https://distrowatch.com/vendefoul</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/vendefoul" />
+    <published>2026-10-03T15:45:53+00:00</published>
+    <updated>2026-10-03T15:45:53+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/vendefoul.png" alt="Vendefoul" /&gt;
+&lt;p&gt;Vendefoul Wolf is a set of lightweight, Devuan-based Linux distributions featuring various popular desktop environments, including Budgie, Cinnamon, KDE Plasma, LXQt, Trinity and Xfce. As the init software, it offers a choice between SysV and runit. Some of the distribution&amp;#x27;s other main features include the LibreWolf web browser, the Calamares system installer, an application store, and its own repository of software packages. Besides the main edition, Vendefoul Wolf also produces various community spins with alternative desktops and window managers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vendefoul-wolf-linux.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/vendefoul-wolf-linux/files/Vendefoul%20Wolf%20Excalibur/SonicDE/Vendefoul_Excalibur_SonicDE_6-7-2_XLibre_OpenRC_Lupinus-20261003_1401.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/vendefoul"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Whonix 18.2.3.3</title>
+    <id>https://distrowatch.com/whonix</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/whonix" />
+    <published>2026-10-03T11:06:31+00:00</published>
+    <updated>2026-10-03T11:06:31+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/whonix.png" alt="Whonix" /&gt;
+&lt;p&gt;Whonix is an operating system focused on anonymity, privacy and security. It is based on the Tor anonymity network, Debian GNU/Linux and security by isolation. Whonix consists of two parts: One solely runs Tor and acts as a gateway, which is called Whonix-Gateway. The other, which is called Whonix-Workstation, is on a completely isolated network. Only connections through Tor are possible. With Whonix, you can use applications and run servers anonymously over the Internet. DNS leaks are impossible, and even malware with root privileges cannot find out the user&amp;#x27;s real IP.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.whonix.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.whonix.org/ova/18.2.3.3/Whonix-LXQt-18.2.3.3.Intel_AMD64.ova"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/whonix"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Kicksecure 18.2.3.3</title>
+    <id>https://distrowatch.com/kicksecure</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/kicksecure" />
+    <published>2026-10-03T10:00:00+00:00</published>
+    <updated>2026-10-03T10:00:00+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/kicksecure.png" alt="Kicksecure" /&gt;
+&lt;p&gt;Kicksecure is a security-hardened Linux distribution based on Debian&amp;#x27;s &amp;quot;Stable&amp;quot; branch, with Xfce as the default desktop user interface. It is a hardened operating system designed to be resistant to viruses, malware and attacks, and extensively reconfigured in accordance with an advanced multi-layer defense model, thereby providing in-depth security. Kicksecure provides protection from many types of malware in its default configuration with no customization required.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.kicksecure.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.kicksecure.com/download/iso/18.2.3.3/Kicksecure-LXQt-18.2.3.3.Intel_AMD64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/kicksecure"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
