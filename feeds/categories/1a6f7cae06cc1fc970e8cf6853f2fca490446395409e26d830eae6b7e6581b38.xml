@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:74eb1bff-5f01-5348-b735-10ba193f7e3e</id>
+  <title>Releases — Feeds</title>
+  <updated>2026-10-10T16:06:32.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>Distinct stored items belonging to Releases</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:9d3b0f32-7bf5-5e13-b0f6-47b38b557ade</id>
+    <title>StratOS 2026.10.06</title>
+    <updated>2026-10-10T16:06:32.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-10T16:06:32.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/stratos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/982c56322fd23417c1d87e431f5fc5981e65a7fcce7e706b75456aa06956b26b.png" alt="StratOS" /&gt;
+&lt;p&gt;StratOS Linux is an Arch-based Linux distribution which uses scripts from Bedrock Linux to include various packages and repositories from other Linux distributions. It provides several desktop variants featuring the GNOME desktop as well as the Hyprland and the Niri Wayland compositors. The project also develops several custom tools, such as StratVIM (a fork of the Neovim text editor), Rockers (a custom package manager wrapper able to fetch and install binary and source packages from other Linux distributions and from Flatpaks), Stratmacs (a custom Emacs configuration), grab (a fetch script), and Maneki-Neko (a Welcome application).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stratos-linux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://downloads.stratos-linux.org/gnome-iso/StratOS-GNOME-2026.10.06-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/stratos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:f076fadb-e04d-539a-81ec-caf78e70e1c1</id>
+    <title>Infinity 2026.10.2</title>
+    <updated>2026-10-10T07:04:11.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-10T07:04:11.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/infinity"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/d87c959c7041fa0814bfe3c7d35d121e916c0f0e1a445b754d5ac8e7d12fb9c9.png" alt="Infinity" /&gt;
+&lt;p&gt;Infinity Linux is an Arch-based, rolling-release Linux distribution featuring the KDE Plasma desktop. Its primarily focus is on speed, flexibility, compatibility and ease of installation. The distribution uses the Calamares system installer and provides out-of-the-box support for Flatpak packages.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://infinity-linux-arch.github.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/infinity-linux/files/ISO/Infinity_Linux-2026.10.2-KDE-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/infinity"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:ba953656-1805-5d23-9add-6c0f3797d150</id>
+    <title>SmartOS 20261009</title>
+    <updated>2026-10-09T21:53:30.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-09T21:53:30.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/smartos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/cd5a5ea899d0e039cc4fc54ca811b268e0ef8159a233962f7143d383ece3f394.png" alt="SmartOS" /&gt;
+&lt;p&gt;SmartOS is an open-source UNIX-like operating system based on illumos, a community fork of OpenSolaris. It features four technologies - ZFS (a combined file system and logical volume manager), DTrace (a dynamic tracing framework for troubleshooting kernel and application problems), Zones (a lightweight virtualisation solution), KVM and bhyve (two full virtualisation solutions for running a variety of guest operating systems, including Linux, Windows, BSD and Plan9). SmartOS is designed to be particularly suitable for building clouds and generating appliances.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.tritondatacenter.com/smartos"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://us-central.manta.mnx.io/Joyent_Dev/public/SmartOS/20261009T131447Z/smartos-20261009T131447Z.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/smartos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:6da1f386-8085-5e68-bd52-10f0914c6a03</id>
+    <title>ZEPHIX 9</title>
+    <updated>2026-10-09T13:29:51.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-09T13:29:51.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/zephix"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/4682363d649982bb4f4fba1bbc25bc9e41e31450e45c867b23489e5f2585456a.png" alt="ZEPHIX" /&gt;
+&lt;p&gt;ZEPHIX is a live Linux operating system based on Debian's stable branch. It runs totally from removable media without touching any files stored on the user's system disk. The aim of Zephix is to provide a free modular operating system that users can carry with them and use wherever there is a laptop or a desktop system available. The default ISO image used to come without any graphical interface, with several desktop modules made available separately; however, starting with version 8 the project adopted the i3 window manager as the sole graphical user interface.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zephix-linux.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/zephix-linux/files/ISO/ZEPHIX-live-9-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/zephix"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:30b3101f-6609-55b9-84f7-4a575415a017</id>
+    <title>Valtux 1.3</title>
+    <updated>2026-10-09T10:44:53.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-09T10:44:53.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/valtux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/43680ff8a5d5b00744f2c2369d49b247ce620a3c94d05a6f202d4014afdf3a45.png" alt="Valtux" /&gt;
+&lt;p&gt;Valtux OS is a desktop Linux distribution based on Debian's "Stable" branch and featuring the KDE Plasma desktop. Developed in Switzerland, it provides out-of-the-box support for all official languages (French, German, Italian and Romansh) and keyboard layouts used in the country. The distribution includes many popular productivity and multimedia software and is intended for all types of users - from complete Linux beginners to experienced power users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mk-infolibre.ch/valtux-os/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/valtux-os/files/1.3/valtux-os--1.3--stable-6.12.111-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/valtux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:e183c221-6e22-598a-9f55-9d201aaff755</id>
+    <title>Noid 20261009</title>
+    <updated>2026-10-09T09:30:02.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-09T09:30:02.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/noid"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/bc6a24173da0135f3d6b47ec2e1d10a0018c2403623ea09b127bcc6d4d4a1ab0.png" alt="Noid" /&gt;
+&lt;p&gt;Noid Linux is a Void-based minimalist Linux distribution with Xfce as the preferred desktop. It includes a long-term supported Linux kernel, the Calamares system installer, the Brave web browser, support for Flatpak packages, and a custom Welcome screen. The project also provides its own repository for Void's XBPS packages with additional software.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://sourceforge.net/projects/noid-linux/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/noid-linux/files/noid-live-weekly-20261009/noid-live-x86_64-20261009-gnome.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/noid"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:83d94686-e9ee-51bf-b8b0-13a026c0f3e6</id>
+    <title>Ventoy 1.1.18</title>
+    <updated>2026-10-09T08:22:20.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-09T08:22:20.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ventoy"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/5d404008a891ed3f11028a23273f47f55e8cff1b0084ed977ce37a6ae80c6329.png" alt="Ventoy" /&gt;
+&lt;p&gt;Ventoy LiveCD is a minimalist, single-purpose live CD designed to install the Ventoy application on Windows system. It is based on Porteus Kiosk and uses the Openbox window manager. It can be useful in cases where the standard installation of Ventoy on Windows fails due to Windows-specific restrictions on some low-level operations. Ventoy, an open-source application that facilitates the creation of bootable USB drives from ISO, WIM, IMG, VHD(x) and EFI files, is a useful utility for those who frequently install or test Linux distributions or other open-source operating systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ventoy.net/en/doc_livecd.html"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-livecd.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ventoy"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:f2924e57-e2e2-5522-836b-2317d2437db9</id>
+    <title>GNUSlashLinux 20261008</title>
+    <updated>2026-10-08T17:49:44.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-08T17:49:44.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/gnuslashlinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/cd025b6e6b630579bf1d65f0a5cbf414fc106c4ea6c7284bd65452271215c6c5.png" alt="GNUSlashLinux" /&gt;
+&lt;p&gt;GNUSlashLinux is an Arch-based, rolling-release Linux distribution featuring the minimalist Noctalia desktop shell on top of the niri Wayland compositor. It is designed specifically for developers and power users seeking a lean, keyboard-driven operating system. The distribution's default software set includes a GPU-accelerated Kitty terminal, the modern Helix text editor, the asynchronous Yazi terminal file manager, the privacy-focused Helium web browser, and the Zathura document viewer. GNUSlashLinux also provides several pre-configured themes and colour schemes, as well as various modern command-line tools as alternatives to classic Unix commands.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gnuslashlinux.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/gnuslashlinux/files/GNUSlashLinux_20261008_Final.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/gnuslashlinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:a4a08681-e0f2-5a69-87de-3dddf906572e</id>
+    <title>Q4OS 6.10</title>
+    <updated>2026-10-08T15:54:19.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-08T15:54:19.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/q4os"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/807574807cec9da40f56f8866a938f60722359bdcd535f7a7e21aff32aec1ace.png" alt="Q4OS" /&gt;
+&lt;p&gt;Q4OS is a Debian-based desktop Linux distribution offering a choice of a classic-style user interface (Trinity) and a modern desktop environment (KDE Plasma). The project also develops various utilities, such as Desktop Profiler and Software Center, as well as installers for third-party applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://q4os.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://downloads.sourceforge.net/q4os/q4os-6.10-x64.r1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/q4os"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:9c2608eb-c791-5a35-b35e-d2ffad448103</id>
+    <title>ToaruOS 3.0.0-alpha1</title>
+    <updated>2026-10-08T03:09:29.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-08T03:09:29.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/toaruos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/44769723e387c140a3c8abcaf1a75c74def7f10a36a8807656d7cd5f2669d12a.png" alt="ToaruOS" /&gt;
+&lt;p&gt;ToaruOS is a built-from-scratch hobby operating system with a bootloader, kernel, drivers, C library and userspace. It includes a composited graphical user interface, a dynamic linker, a syntax-highlighting text editor and a network stack. Some of the features of ToaruOS include virtual machine integration for absolute mouse and automatic display sizing in VirtualBox and VMware Workstation, a Unix-like terminal interface including a feature-rich terminal emulator and several familiar utilities, and optional third-party ports including GCC, Binutils and Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://toaruos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/klange/toaruos/releases/download/v3.0.0a1/image.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/toaruos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:0435539e-5001-5ccc-8fb4-5e683b705ad1</id>
+    <title>Rocky 10.3-beta</title>
+    <updated>2026-10-07T20:18:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-07T20:18:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/rocky"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/ed63190fa33892f4ac747e114ccde4c0d5d4f2a0e22d8761b772b3b9d995abe8.png" alt="Rocky" /&gt;
+&lt;p&gt;Rocky Linux is a community enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux. It is available for the x86_64 and AArch64 processor architectures.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rockylinux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://dl.rockylinux.org/stg/rocky/10.3-BETA/isos/x86_64/Rocky-10.3-x86_64-dvd1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/rocky"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:28c7bcab-35e1-5b59-b477-ed6dc6cf9e72</id>
+    <title>LazyLinux 20261007</title>
+    <updated>2026-10-07T18:17:01.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-07T18:17:01.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/lazylinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/aaa12fc4c117161a346cbbaa3f41f22276f5d834899f7e85997fdcef033dbd96.png" alt="LazyLinux" /&gt;
+&lt;p&gt;LazyLinux is a Void-based desktop Linux distribution with Xfce as the preferred desktop and a vast collection of pre-installed software. It intends to be user-friendly and usable right after installation. The distribution ships with many popular productivity and multimedia applications, such as Brave browser, Thunderbird email client, OnlyOffice office suite, GIMP image manipulation program, Inkscape vector graphics editor, VLC media player and many others. LazyLinux also provides out-of-the-box support for Flatpak packages.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lazylinuxos.github.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/lazylinux/files/iso/skarwm/lazylinux-live-x86_64-20261007-skarwm-xlibre.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lazylinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>
