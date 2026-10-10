@@ -1,0 +1,17 @@
+{
+  "homepages": {
+    "gnuslashlinux": "https://www.gnuslashlinux.com/",
+    "infinity": "https://infinity-linux-arch.github.io/",
+    "lazylinux": "https://lazylinuxos.github.io/",
+    "noid": "https://sourceforge.net/projects/noid-linux/",
+    "q4os": "https://q4os.org/",
+    "rocky": "https://rockylinux.org/",
+    "smartos": "https://www.tritondatacenter.com/smartos",
+    "stratos": "https://stratos-linux.org/",
+    "toaruos": "https://toaruos.org/",
+    "valtux": "https://mk-infolibre.ch/valtux-os/",
+    "ventoy": "https://www.ventoy.net/en/doc_livecd.html",
+    "zephix": "https://zephix-linux.sourceforge.io/"
+  },
+  "updated": "2026-10-10T16:45:27+00:00"
+}
