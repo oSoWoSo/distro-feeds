@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:74eb1bff-5f01-5348-b735-10ba193f7e3e</id>
+  <title>Releases — Feeds</title>
+  <updated>2026-10-17T10:27:20.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>Distinct stored items belonging to Releases</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:5ed1ccaa-3843-561c-b319-6c522e525052</id>
+    <title>FunOS 26.10</title>
+    <updated>2026-10-17T10:27:20.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-17T10:27:20.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/funos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/728eeda55504927038ef95a47107ca5df6449d0fbcd0e62fd3b5557bcf0805f4.png" alt="FunOS" /&gt;
+&lt;p&gt;FunOS is an Ubuntu-based Linux distribution which features the JWM graphical user interface. The project is intended to be more lightweight than official Ubuntu community editions while providing the same application compatibility and hardware support.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://funos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/funos/files/stonking/final/26.10/funos-26.10-stable.20261017.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/funos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:f2ef40c6-a9cd-5035-996d-f22d3de42c76</id>
+    <title>Vuu-do 20261015</title>
+    <updated>2026-10-17T01:04:11.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-17T01:04:11.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/vuudo"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/cad434a8aad2f599b1678dc628a3307bc4b95fba107850bd1a068f0487f56180.png" alt="Vuu-do" /&gt;
+&lt;p&gt;Vuu-do is a minimalist desktop Linux distribution featuring primarily the Openbox window manager. Despite its small size, the distribution ships with several popular productivity applications, such as LibreOffice, GIMP, Inkscape, VLC and Transmission, as well as various custom utilities, including VuuNotes (a lightweight note-taking application), VuuMan (a graphical man-page browser and viewer), VuuPaper (a wallpaper manager). Vuu-do can be installed to a hard disk using the Refracta system installer. Besides the main branch, the project also builds a separate Devuan-based ISO image using the Xlibre X11 display server and the MATE desktop environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vuu-do.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/vuu-do/files/Vuu-do-5.03/5.03-ob-max-z/Vuu-do-5.03-ob-max-z-20261015_1828.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/vuudo"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:586f3a8f-ebce-529f-99f0-6364be6e4a68</id>
+    <title>Asmi 26.10</title>
+    <updated>2026-10-16T16:25:05.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-16T16:25:05.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/asmi"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/be4659462b2b5f2014b3afc55360b2f22d32f2c70c4a13203c88f003805efa2f.png" alt="Asmi" /&gt;
+&lt;p&gt;Asmi Linux is a desktop-oriented Linux distribution with editions based on either Ubuntu or Debian. It uses a highly-customised Xfce desktop with some user-friendly touches. Some of its other features include the Calamares system installer, out-of-the-box support for several popular virtual machine managers, a load-to-RAM boot option, the latest Firefox browser, Cloudflare DNS for faster DNS lookup, and SSH multiplexing for faster SSH connections. The project also offers a commercial "Ultimate" edition with additional software and tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://teejeetech.com/asmi/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://dl.teejeetech.com/asmi/asmi-linux-26.10-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/asmi"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:be3a2fb5-b4fd-55e2-ad33-a043ceb01227</id>
+    <title>NebiOS 10.3-rc1</title>
+    <updated>2026-10-16T15:19:06.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-16T15:19:06.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/nebios"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/171717dd7f42cb6564948fd5bacf944306ecdad8c9b2737a6280a28038ad8b78.png" alt="NebiOS" /&gt;
+&lt;p&gt;NebiOS is an Ubuntu-based desktop Linux distribution with a custom Wayland compositor called NebiDE (based on Wayfire). It features various user interface enhancements, an initial setup module called OOBE, the NebiOS App Runtime (napp-runtime) portable application format with bubblewrap containerization, improved gaming performance with Steam Proton integration, a kernel switcher for easy multi-kernel installation, and the Wine compatibility layer for running some Windows applications. NebiOS is intended as a general-purpose operating system for daily computing tasks, including creative work and gaming.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nebios.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://diskimg.nebios.org/publicbeta/10.3-rc1/nebios-x-10.3-rc1-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/nebios"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:23ed341a-0986-5674-a447-c22f84339a6c</id>
+    <title>Voyager 26.10</title>
+    <updated>2026-10-16T05:20:48.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-16T05:20:48.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/voyager"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/e5f5d5c21f505e2b18108a350dff9e7e2cfaf2dfd7f5c3758a3bc2cea5b35a2b.png" alt="Voyager" /&gt;
+&lt;p&gt;Voyager Live is an Xubuntu-based distribution and live DVD showcasing the Xfce desktop environment. Its features include the Avant Window Navigator or AWN (a dock-like navigation bar), Conky (a program which displays useful information on the desktop), and over 300 photographs and animations that can be used as desktop backgrounds. The project also develops several other editions of Voyager Live - a "GE" edition with GNOME Shell, a "GS" variant for Gamers, and a separately-maintained flavour based on Debian's "stable" branch.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://voyagerlive.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/voyagerlive/files/Voyager-26.10-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/voyager"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:fd91c1c5-3b58-5885-8828-016c1d3751cc</id>
+    <title>Ubuntu Unity 26.10</title>
+    <updated>2026-10-16T01:51:14.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-16T01:51:14.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ubuntuunity"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/6c3c6ce9db30c8a9857940993b5ca34df04056975e210969d80fbe62a54ea2c1.png" alt="Ubuntu Unity" /&gt;
+&lt;p&gt;Ubuntu Unity is a flavour of Ubuntu featuring the Unity desktop environment (the default desktop environment developed and used by Ubuntu from 2010 to 2017). Unity debuted in the netbook edition of Ubuntu 10.10; it was initially designed to make more efficient use of space given the limited screen size of netbooks, including a vertical application switcher called "the launcher" and a space-saving horizontal multipurpose top menu bar. Ubuntu switched from Unity to GNOME in 2017, but the desktop was resurrected again as an unofficial "Ubuntu Unity Remix" in 2020. It became an official flavour of Ubuntu during the development cycle of Ubuntu 22.10 in 2022.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ubuntuunity.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/ubuntu-unity/releases/26.10/release/ubuntu-unity-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ubuntuunity"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:7f9f9185-d7ae-5fbc-88e7-620a558eaf4c</id>
+    <title>Xubuntu 26.10</title>
+    <updated>2026-10-15T15:11:25.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-15T15:11:25.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/xubuntu"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/5242c14701f2e691635c4490d84713741640ecd18bde5123b10f5a5b33258844.png" alt="Xubuntu" /&gt;
+&lt;p&gt;Xubuntu is a community-developed operating system based on Ubuntu. It comes with Xfce, which is a stable, light and configurable desktop environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.xubuntu.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/xubuntu/releases/26.10/release/xubuntu-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/xubuntu"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:4ff48e05-87e8-58c9-8cdd-2136aed99a45</id>
+    <title>Ubuntu Studio 26.10</title>
+    <updated>2026-10-15T14:00:06.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-15T14:00:06.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ubuntustudio"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/659a9578a988147a594981b68771c73928beb2e8db68bea0db3d5cbb268216a5.png" alt="Ubuntu Studio" /&gt;
+&lt;p&gt;An official variant of Ubuntu, Ubuntu Studio is a Linux-based operating system for creative individuals in the areas of audio production, video production, graphics design, photography and desktop publishing. It makes professional audio accessible on Linux; it uses the JACK sound server and a kernel built with a low-latency patch. Up until version 20.10 Ubuntu Studio shipped with the Xfce desktop environment, but this was replaced by KDE Plasma in October 2020.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ubuntustudio.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/ubuntustudio/releases/26.10/release/ubuntustudio-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ubuntustudio"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:aeb0b37f-9fe0-5b2e-8db0-7f32d59e9da6</id>
+    <title>Ubuntu MATE 26.10</title>
+    <updated>2026-10-15T13:45:02.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-15T13:45:02.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ubuntumate"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/b23e1a72047e924e7eefa277139a93a590c4cd581e9cccd8cfc34c7ec51aa681.png" alt="Ubuntu MATE" /&gt;
+&lt;p&gt;Ubuntu MATE is a desktop Linux distribution which aims to bring the simplicity and elegance of the Ubuntu operating system through a classic, traditional desktop environment - the MATE desktop. MATE is the continuation of the GNOME 2 desktop environment which was used as Ubuntu's default desktop until 10.10 (when it was replaced by Unity). The project began its life as an Ubuntu "remix", but starting with version 15.04, it was formally accepted as an official member of the Ubuntu family of Linux distributions.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ubuntu-mate.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/ubuntu-mate/releases/26.10/release/ubuntu-mate-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ubuntumate"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d80656ed-29bd-5ac0-81a6-c7e409e898ad</id>
+    <title>Ubuntu Kylin 26.10</title>
+    <updated>2026-10-15T13:30:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-15T13:30:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ubuntukylin"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/f85b78547de01a089f642d4be4c43029606d213592a89a03b1f833aac0e51d8a.png" alt="Ubuntu Kylin" /&gt;
+&lt;p&gt;Ubuntu Kylin is an official Ubuntu flavour whose primary goal is to create a variant of Ubuntu optimised for Chinese users (using the Simplified Chinese writing system), although it also supports other languages. The default desktop is called UKUI (Universal Kylin User Interface) which is based on MATE desktop and is developed with the Qt toolkit. UKUI strives to adhere to the friendly-and-simple design concept. The distribution also includes more than 20 applications developed in-house, including Kylin Assistant, Kylin Video, Kylin Screenshots and Software Center.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ubuntukylin.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/ubuntukylin/releases/26.10/release/ubuntukylin-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ubuntukylin"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:78290ecf-aae8-5bff-9b8a-f4f75b051f79</id>
+    <title>Ubuntu Cinnamon 26.10</title>
+    <updated>2026-10-15T13:15:10.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-15T13:15:10.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ubuntucinnamon"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/618c887173343045baf18aecd06c764b0e9701ffbad60c81b41917677868a5ea.png" alt="Ubuntu Cinnamon" /&gt;
+&lt;p&gt;Ubuntu Cinnamon is an official flavour of the Ubuntu distribution featuring the Cinnamon desktop. The project strives to offer modern tools while providing a user-friendly desktop which will feel familiar for users coming from other operating systems, such as Microsoft Windows.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ubuntucinnamon.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/ubuntucinnamon/releases/26.10/release/ubuntucinnamon-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ubuntucinnamon"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:609b4080-6e48-5e1b-9eb3-e3012ebd27c4</id>
+    <title>Ubuntu Budgie 26.10</title>
+    <updated>2026-10-15T13:00:14.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-15T13:00:14.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ubuntubudgie"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://feed.osowoso.org/media/83ae96353334531e046c93be31cc6f3d1109e19b76f7230169459ef88d46b2b3.png" alt="Ubuntu Budgie" /&gt;
+&lt;p&gt;Ubuntu Budgie (previously budgie-remix) is an Ubuntu-based distribution featuring the Budgie desktop, originally developed by the Solus project. Written from scratch and integrating tightly with the GNOME stack, Budgie focuses on simplicity and elegance, while also offering useful features, such as the Raven notification and customisation centre.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ubuntubudgie.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cdimage.ubuntu.com/ubuntu-budgie/releases/26.10/release/ubuntu-budgie-26.10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ubuntubudgie"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>
