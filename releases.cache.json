@@ -1,0 +1,17 @@
+{
+  "homepages": {
+    "deblinux": "https://www.andrealinux.it/deblinux6/",
+    "flatcar": "https://www.flatcar.org/",
+    "flinux": "https://flinux-distro.sourceforge.io/",
+    "haos": "https://www.home-assistant.io/",
+    "kdeneon": "https://neon.kde.org/",
+    "lumaos": "https://lumaoslinux.org/",
+    "lyra": "https://lyraos.com.br/",
+    "nagisinnra": "https://nagisinnra.f5.si/",
+    "quirinux": "https://quirinux.org/",
+    "t4n": "https://t4n-labs.github.io/t4n-os/",
+    "unraid": "https://unraid.net/",
+    "voyager": "https://voyagerlive.org/"
+  },
+  "updated": "2026-10-24T15:12:14+00:00"
+}

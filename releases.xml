@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DistroWatch releases</title>
+  <subtitle>Latest distribution releases with homepage and download links</subtitle>
+  <id>https://feed.osowoso.org/releases.xml</id>
+  <updated>2026-10-24T15:12:14+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/releases.xml" />
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/releases.html" />
+  <entry>
+    <title>LumaOS 26.10-0</title>
+    <id>https://distrowatch.com/lumaos</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/lumaos" />
+    <published>2026-10-24T14:53:49+00:00</published>
+    <updated>2026-10-24T14:53:49+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/lumaos.png" alt="LumaOS" /&gt;
+&lt;p&gt;LumaOS is a desktop Linux distribution based on Ubuntu and featuring the niri Wayland compositor. It is distributed as a minimalist live image, with a carefully designed dark theme, a curated selection of desktop tools, an application installer called Luma Store, the Foot terminal, and the Calamares system installer. The distribution also supports installing Flatpak packages. LumaOS is designed for users who prefer a scrollable tiling window management workflow on their desktop.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lumaoslinux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://repo.lumaoslinux.org/releases/lumaos-26.10-0.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lumaos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Voyager 26.04.1</title>
+    <id>https://distrowatch.com/voyager</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/voyager" />
+    <published>2026-10-24T12:38:47+00:00</published>
+    <updated>2026-10-24T12:38:47+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/voyager.png" alt="Voyager" /&gt;
+&lt;p&gt;Voyager Live is an Xubuntu-based distribution and live DVD showcasing the Xfce desktop environment. Its features include the Avant Window Navigator or AWN (a dock-like navigation bar), Conky (a program which displays useful information on the desktop), and over 300 photographs and animations that can be used as desktop backgrounds. The project also develops several other editions of Voyager Live - a &amp;quot;GE&amp;quot; edition with GNOME Shell, a &amp;quot;GS&amp;quot; variant for Gamers, and a separately-maintained flavour based on Debian&amp;#x27;s &amp;quot;stable&amp;quot; branch.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://voyagerlive.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://downloads.sourceforge.net/voyagerlive/Voyager-26.04.1-lts-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/voyager"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Quirinux 2.3</title>
+    <id>https://distrowatch.com/quirinux</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/quirinux" />
+    <published>2026-10-24T09:48:38+00:00</published>
+    <updated>2026-10-24T09:48:38+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/quirinux.png" alt="Quirinux" /&gt;
+&lt;p&gt;Quirinux is a Devuan-based Linux distribution designed for the development of animated films. The project provides tools to create an animated film using various common techniques (traditional, digital, cut-out, CGI-3D, stop motion, motion graphics) using open-source software. The distribution uses the Xfce desktop and its main features include ease of installation with the Calamares system installer, GIMP image editor that comes with a configurator tool and extra plugins, and choice of themes and desktop layouts.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://quirinux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://repo.quirinux.org/dev/isos/Quirinux-2.3-Estable_x64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/quirinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>HAOS 18.4-rc2</title>
+    <id>https://distrowatch.com/haos</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/haos" />
+    <published>2026-10-23T22:53:04+00:00</published>
+    <updated>2026-10-23T22:53:04+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/haos.png" alt="HAOS" /&gt;
+&lt;p&gt;Home Assistant OS (HAOS) is an independently-developed, Linux-based operating system optimised to run Home Assistant, an open-source home automation tool. It focuses on local control and privacy. HAOS uses Docker as its container engine and deploys Home Assistant Supervisor as a container. Home Assistant Supervisor in turn uses the Docker container engine to control Home Assistant Core and Apps in separate containers. The product is available for various single-board computers, like Raspberry Pi or ODROID, but it also supports x86_64 systems with UEFI boot mode.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.home-assistant.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/home-assistant/operating-system/releases/download/18.4.rc2/haos_generic-x86-64-18.4.rc2.img.xz"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/haos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Flatcar 4757.2.2</title>
+    <id>https://distrowatch.com/flatcar</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/flatcar" />
+    <published>2026-10-23T19:37:20+00:00</published>
+    <updated>2026-10-23T19:37:20+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/flatcar.png" alt="Flatcar" /&gt;
+&lt;p&gt;Flatcar Container Linux is a container-optimized operating system based on Gentoo Linux. It is a minimal operating system image which includes only the tools needed to run containers and it supports all of the popular methods for running containers. The distribution ships an immutable filesystem and includes automatic atomic updates. Flatcar Container Linux runs on most cloud providers, virtualization platforms and bare metal servers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flatcar.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://stable.release.flatcar-linux.net/amd64-usr/4757.2.2/flatcar_production_iso_image.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/flatcar"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Lyra 16.1-rc1</title>
+    <id>https://distrowatch.com/lyra</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/lyra" />
+    <published>2026-10-23T13:23:29+00:00</published>
+    <updated>2026-10-23T13:23:29+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/lyra.png" alt="Lyra" /&gt;
+&lt;p&gt;Lyra OS is a Brazilian desktop and server Linux distribution based on openSUSE Tumbleweed, a rolling-release variant of openSUSE. The desktop edition features a customised GNOME desktop. It provides a simple and intuitive system installer called Lyra Install and a comprehensive control centre termed Vega, which is also available as a command-line and web-based application in Lyra&amp;#x27;s Server edition. The distribution also ships with LinuxToys, a unified system management, configuration and software installation tool. Lyra OS supports Portuguese (both Brazilian and European) and English languages.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lyraos.com.br/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/lyra/files/releases/16.1/rc1/desktop/LyraOS-Desktop-16.1-rc.1-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lyra"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>T4n OS 20261023</title>
+    <id>https://distrowatch.com/t4n</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/t4n" />
+    <published>2026-10-23T11:31:25+00:00</published>
+    <updated>2026-10-23T11:31:25+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/t4n.png" alt="T4n OS" /&gt;
+&lt;p&gt;T4n OS is a lightweight, fast and minimalist Linux distribution based on Void Linux. It uses a vanilla Xfce desktop. Besides some of the standard characteristics inherited from upstream, such as rolling release model, XBPS package manager, and runit init system, the project also features VUR (Void User Repository), a software repository concept inspired by Arch&amp;#x27;s AUR (Arch User Repository).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://t4n-labs.github.io/t4n-os/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/t4n-os/files/T4n-OS_XFCE/t4n_os-live-x86_64-20261023-xfce.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/t4n"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Deblinux 6.3</title>
+    <id>https://distrowatch.com/deblinux</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/deblinux" />
+    <published>2026-10-23T10:35:48+00:00</published>
+    <updated>2026-10-23T10:35:48+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/deblinux.png" alt="Deblinux" /&gt;
+&lt;p&gt;Deblinux is an Italian desktop Linux distribution based on Debian&amp;#x27;s &amp;quot;Stable&amp;quot; branch and featuring the MATE desktop environment. Its main focus is to provide a ready-to-use Debian environment with pre-configured drivers and multimedia support. The distribution uses the Calamares system installer and offers a large variety of useful software for general computing tasks.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.andrealinux.it/deblinux6/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/deblinux/files/Deblinux%2064%20bit/deblinux63-64bit.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/deblinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>KDE neon 20261018</title>
+    <id>https://distrowatch.com/kdeneon</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/kdeneon" />
+    <published>2026-10-23T08:43:00+00:00</published>
+    <updated>2026-10-23T08:43:00+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/kdeneon.png" alt="KDE neon" /&gt;
+&lt;p&gt;KDE neon is a Ubuntu-based Linux distribution and live DVD featuring the latest KDE Plasma desktop and other KDE community software. Besides the installable DVD image, the project provides a rapidly-evolving software repository with all the latest KDE software. Two editions of the product are available - a &amp;quot;User&amp;quot; edition, designed for those interested in checking out the latest KDE software as it gets released, and a &amp;quot;Developer&amp;#x27;s&amp;quot; edition, created as a platform for testing cutting-edge KDE applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://neon.kde.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://files.kde.org/neon/images/desktop/user/20261018-1825/neon-user-desk-20261018-1825.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/kdeneon"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>FLinux 17.2</title>
+    <id>https://distrowatch.com/flinux</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/flinux" />
+    <published>2026-10-23T00:08:11+00:00</published>
+    <updated>2026-10-23T00:08:11+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/flinux.png" alt="FLinux" /&gt;
+&lt;p&gt;FLinux is a minimalist Linux distribution forked from Tiny Core Linux. It is built with FLTK, a cross-platform C++ GUI toolkit. The distribution uses the flwm window manager and includes a bare minimum of lightweight applications, such as Dillo (a web browser), Fluff (a file manager) and flpicsee (an image viewer). Extra applications can be install through a graphical software management utility and the project maintains a repository of custom-built packages, in addition to those provided by Tiny Core Linux. The distribution is available in two variants - one without any WiFi support and one with a wide range of wireless firmware included. FLinux is designed to be extremely lightweight; it can run in installed mode without swap on systems with as little as 96 MB of memory.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://flinux-distro.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/flinux-distro/files/flinux-17.2.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/flinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Unraid 7.3.4</title>
+    <id>https://distrowatch.com/unraid</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/unraid" />
+    <published>2026-10-22T19:31:15+00:00</published>
+    <updated>2026-10-22T19:31:15+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/unraid.png" alt="Unraid" /&gt;
+&lt;p&gt;Unraid OS is a Linux-based commercial operating system designed to provide an easy-to-use and flexible platform for building and managing a Network-Attached Storage (NAS). Some of Unraid&amp;#x27;s main features include the ability to mix and match drives of different sizes, an easy-to-use web interface for managing storage, virtual machines and Docker containers, protection to safeguard against drive failures, ability to expand the storage by adding more drives.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://unraid.net/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://releases.unraid.net/dl/stable/7.3.4/ae8169459e2277e8d450b9a590c18f747dd8eaa50ebc54743a36cadd093cbfb8/unRAIDServer-7.3.4-x86_64.zip"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/unraid"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NagisinnraLinux 1.0.9</title>
+    <id>https://distrowatch.com/nagisinnra</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/nagisinnra" />
+    <published>2026-10-22T11:11:04+00:00</published>
+    <updated>2026-10-22T11:11:04+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/nagisinnra.png" alt="NagisinnraLinux" /&gt;
+&lt;p&gt;NagisinnraLinux is a Japanese Linux distribution based on Debian&amp;#x27;s &amp;quot;Stable&amp;quot; branch. Featuring a lightweight Xfce desktop, it is specifically designed to revive older hardware and provide a snappy and minimal, yet fully functional desktop environment for daily use. The distribution&amp;#x27;s main features include out-of-the-box support for the Japanese language, advanced memory optimisation, use of zram compression to guarantee smooth multitasking, and removal of unnecessary and redundant services to maximise battery life and CPU responsiveness.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nagisinnra.f5.si/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/nagisinnralinux/files/NagisinnraLinux-v1.0.9.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/nagisinnra"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
