@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:74eb1bff-5f01-5348-b735-10ba193f7e3e</id>
+  <title>Releases — Feeds</title>
+  <updated>2026-10-31T15:58:33.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>Distinct stored items belonging to Releases</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:55056aaa-52c3-57e7-8efe-1b46fd9fccc3</id>
+    <title>TROMjaro 2026.10.31</title>
+    <updated>2026-10-31T15:58:33.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-31T15:58:33.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/tromjaro"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/tromjaro.png" alt="TROMjaro" /&gt;
+&lt;p&gt;TROMjaro is a Manjaro-based Linux distribution with a customised Xfce desktop. Compared to its parent, TROMjaro offers several user-friendly utilities, such as Layout Switcher with six different layouts or Theme Switcher with several accent colours. It also provides various enhancements, including the integration of the Chaotic-AUR repository with pre-built binary packages, a selection of custom wallpapers and icon packs, and extra configuration options in Settings Manager. The distribution comes with support for AppImage files and a heavily-tweaked Firefox browser with custom add-ons.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.tromjaro.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.drive.tromsite.com/public.php/dav/files/BGDqACJeMQf8TNt/TROMjaro%202026.10.31.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/tromjaro"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:e1316833-92ed-5534-9b56-e87321c44d79</id>
+    <title>Fluff 2026.11.01</title>
+    <updated>2026-10-31T10:47:55.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-31T10:47:55.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/fluff"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/fluff.png" alt="Fluff" /&gt;
+&lt;p&gt;Fluff Linux is an Arch-based distribution featuring a standard KDE Plasma desktop. It is developed by FluffNet, with a focus on delivering a stable, high-performance and hassle-free computing experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://flufflinux.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://flufflinux.com/downloads/flufflinux/flufflinux-2026.11.01-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/fluff"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:34f4f5fe-2e10-5e2f-b284-ce0ea99e2eb4</id>
+    <title>Netdeep 4.10362</title>
+    <updated>2026-10-31T02:02:03.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-31T02:02:03.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/netdeep"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/netdeep.png" alt="Netdeep" /&gt;
+&lt;p&gt;Netdeep Secure Firewall is a comercial Linux distribution designed for firewalls, developed by Neetdeep Tecnologia Ltda in Brazil. It is built from scratch on top of a Linux kernel and GNU utilities. The distribution provides a web-based interface for configuring various services, including network, Unified Threat Management (UTM), Deep Packet Inspection (DPI), URL filter, captive portal and hotspot, antivirus, reports and audits, secure connection over virtual private networks, intrusion detection and prevention, traffic control, balancing and failover, and many others. The company also provides licences and commercial support for users located in Brazil.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://netdeep.com.br/novo/firewall/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/nds/files/4.0/nds-4.10362-install-cd.x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/netdeep"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:58e371ac-0b1d-5b12-b013-3f5934eb1d61</id>
+    <title>Lite 8.2</title>
+    <updated>2026-10-31T01:05:39.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-31T01:05:39.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/lite"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/lite.png" alt="Lite" /&gt;
+&lt;p&gt;Linux Lite is a beginner-friendly Linux distribution based on Ubuntu's long-term support (LTS) release and featuring the Xfce desktop. Linux Lite primarily targets Windows users. It aims to provide a complete set of applications to assist users with their everyday computing needs, including a full office suite, media players and other essential daily software.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.linuxliteos.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/linux-lite/files/8.2/linux-lite-8.2-64bit.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lite"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:12ab08ea-1261-5430-90f1-21dc758bbfd5</id>
+    <title>Lyra 16.1-rc3</title>
+    <updated>2026-10-31T00:13:51.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-31T00:13:51.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/lyra"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/lyra.png" alt="Lyra" /&gt;
+&lt;p&gt;Lyra OS is a Brazilian desktop and server Linux distribution based on openSUSE Tumbleweed, a rolling-release variant of openSUSE. The desktop edition features a customised GNOME desktop. It provides a simple and intuitive system installer called Lyra Install and a comprehensive control centre termed Vega, which is also available as a command-line and web-based application in Lyra's Server edition. The distribution also ships with LinuxToys, a unified system management, configuration and software installation tool. Lyra OS supports Portuguese (both Brazilian and European) and English languages.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lyraos.com.br/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/lyra/files/releases/16.1/rc3/desktop/LyraOS-Desktop-16.1-rc.3-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/lyra"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:c91bd293-2dc6-5525-a2f3-edbd2edd1515</id>
+    <title>OpenIndiana 20261030</title>
+    <updated>2026-10-30T23:39:54.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-30T23:39:54.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/openindiana"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/openindiana.png" alt="OpenIndiana" /&gt;
+&lt;p&gt;OpenIndiana is a continuation of the OpenSolaris operating system. It was conceived during the period of uncertainty following the Oracle takeover of Sun Microsystems, after several months passed with no binary updates made available to the public. The formation proved timely, as Oracle discontinued OpenSolaris soon after in favour of Solaris 11 Express, a binary distribution with a more closed development model to début later this year. OpenIndiana is part of the illumos Foundation, and provides a true open-source community alternative to Solaris 11 and Solaris 11 Express, with an open development model and full community participation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://openindiana.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://dlc.openindiana.org/isos/hipster/20261030/OI-hipster-gui-20261030.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/openindiana"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:69fe2b08-9ca0-5670-8992-8a48311f007a</id>
+    <title>Sculpt 26-10</title>
+    <updated>2026-10-30T21:18:35.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-30T21:18:35.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/sculpt"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/sculpt.png" alt="Sculpt" /&gt;
+&lt;p&gt;Sculpt OS is an independent open-source operating system developed by Genode. It combines Genode's microkernel architecture, capability-based security, sandboxed device drivers, and virtual machines in a novel operating system for commodity PC hardware and the PinePhone. Sculpt uses an administrative user interface called "Leitzentrale".&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://genode.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://genode.org/files/sculpt/sculpt-26-10.img"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/sculpt"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:fc1b3970-7f16-5214-a4c7-3cd5e20766b7</id>
+    <title>Tails 7.16</title>
+    <updated>2026-10-30T09:03:08.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-30T09:03:08.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/tails"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/tails.png" alt="Tails" /&gt;
+&lt;p&gt;The Amnesic Incognito Live System (Tails) is a Debian-based live DVD/USB with the goal of providing complete Internet anonymity for the user. The product ships with several Internet applications, including web browser, IRC client, mail client and instant messenger, all pre-configured with security in mind and with all traffic anonymised. To achieve this, Incognito uses the Tor network to make Internet traffic very hard to trace.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://tails.net/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.tails.net/tails/stable/tails-amd64-7.16/tails-amd64-7.16.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/tails"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:5b3469fd-4312-5a4b-8732-358666603995</id>
+    <title>Proton 2026.11.01</title>
+    <updated>2026-10-29T17:37:53.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-29T17:37:53.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/proton"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/proton.png" alt="Proton" /&gt;
+&lt;p&gt;Proton OS is a desktop-oriented Linux distribution based on Debian's "Stable" branch. Featuring the KDE Plasma desktop, it is built with small businesses in mind, designed primarily for office workstations, shared computers and reception systems. It also includes the Calamares system installer and is pre-configured to automatically install all security updates. The project's goal is to give businesses greater control over their computers while reducing dependence on proprietary operating systems and unnecessary data collection.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.protonos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/proton-os/files/Frontier/ProtonOS-frontier-1.0-64bit-2026.11.01.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/proton"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:599a21af-18ab-5461-b693-8dbb23c24c69</id>
+    <title>CarotOS 1.3</title>
+    <updated>2026-10-29T12:19:30.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-29T12:19:30.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/carotos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/carotos.png" alt="CarotOS" /&gt;
+&lt;p&gt;CarotOS is a specialist Debian-based Linux distribution designed primarily for cybersecurity education in a classroom. It includes a number of security tools, covering network scanning, traffic analysis, web and password testing, and firewall configuration, as well as a number of custom applications, written in Python and released under General Public Licence 3. The principal learning tool is called CarotOS Poligon, a student/teacher application pair for practicing penetration testing in an isolated, local classroom environment. CarotOS boots into a customised Xfce desktop with Turkish as the default language, although English is available for selection either from the Welcome wizard or from the Settings manager, and the application interfaces are available in both languages.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://carotos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.carotos.org/carotos-1.3-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/carotos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:7017d514-a298-5a8f-b1e5-2e63fa1bee2c</id>
+    <title>Gnoppix 26_11</title>
+    <updated>2026-10-29T01:23:52.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-29T01:23:52.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/gnoppix"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/gnoppix.png" alt="Gnoppix" /&gt;
+&lt;p&gt;Gnoppix Linux is a Debian-based distribution which can be run from a USB thumb drive or from a local drive. It is pre-loaded with essential Artificial Intelligence (AI) frameworks, libraries and development tools. It uses several popular desktop environments, including GNOME, KDE Plasma and Xfce. The project is an attempt to revive a Knoppix-based live distribution with the GNOME desktop that was first launched back in 2002.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gnoppix.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/gnoppixng/files/releases/core/gnoppix_26_11_xfce.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/gnoppix"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:bfd15376-635e-59b6-b6b4-961bce587ff1</id>
+    <title>Manjaro 26.1.3</title>
+    <updated>2026-10-28T20:05:26.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-10-28T20:05:26.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/manjaro"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/manjaro.png" alt="Manjaro" /&gt;
+&lt;p&gt;Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as KDE, GNOME and a minimalist Net edition for more advanced users. Community-supported desktop flavours are also available.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://manjaro.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/manjarolinux/files/gnome/26.1.3/manjaro-gnome-26.1.3-261028-linux72.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/manjaro"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>
