@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:60fcec81-1a25-59cc-88a6-c692eb1b80be</id>
+  <title>All Items — Feeds</title>
+  <updated>2026-11-07T15:01:15.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/all.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>All distinct items currently stored by the app</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:f2b8104f-5684-5fc8-8d74-6f2936b78d71</id>
+    <title>HackerOS 5.1</title>
+    <updated>2026-11-07T15:01:15.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-07T15:01:15.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/hackeros"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/hackeros.png" alt="HackerOS" /&gt;
+&lt;p&gt;HackerOS is a live Linux distribution based on Debian's "Testing" branch and designed for regular users, gamers and cybersecurity enthusiasts. Some of its features include an optimised XanMod Linux kernel for faster boot times and reduced resource usage, out-of-the-box support for NVIDIA graphics cards, and a collection of cybersecurity tools, such as enhanced firewalls and intrusion detection software. The distribution uses the KDE Plasma desktop.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://hackeros-linux-system.github.io/HackerOS-Website/Home-page.html"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/hackeros/files/OFFICIAL/HackerOS-V5.1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/hackeros"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:ca4e6474-295c-5b95-859c-18698fe14e24</id>
+    <title>SystemRescue 13.03</title>
+    <updated>2026-11-07T12:41:20.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-07T12:41:20.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/systemrescue"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/systemrescue.png" alt="SystemRescue" /&gt;
+&lt;p&gt;SystemRescue is an Arch-based Linux system on a bootable DVD or USB drive, designed for repairing a system and rescue data after a crash. It also aims to provide an easy way to carry out administration tasks on a computer, such as creating and editing hard disk partitions. It contains many useful system utilities (GNU Parted, PartImage, FSTools) and some basic ones (editors, Midnight Commander, network tools). It aims to be very easy to use. The kernel of the system supports all of today's most important filesystems, including ext2, ext3, ext4, ReiserFS, Reiser4, Btrfs, XFS, JFS, VFAT, NTFS, ISO9660, as well as network filesystems, such as Samba and NFS.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.system-rescue.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/13.03/systemrescue-13.03-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/systemrescue"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:2a6d3f48-edef-5686-8e6f-658ce2823537</id>
+    <title>Spaced 11.26</title>
+    <updated>2026-11-07T11:33:41.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-07T11:33:41.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/spaced"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/spaced.png" alt="Spaced" /&gt;
+&lt;p&gt;Spaced Linux is a desktop Linux distribution based on Devuan's "Unstable" branch and featuring the MATE desktop environment on top of the Compiz compositing window manager. Like its parent, it uses the SysV init system. The distribution boots into a barebones live environment which offers the possibility to install Spaced Linux to a hard disk using the Calamares system installer. Once installed, a Welcome screen provides single-click options to extend the distribution by installing a collection of suggested applications (for web, office and multimedia use), adding SpacedBazaar (for Flatpak applications) or installing the NVIDIA graphics drivers. Spaced Linux intends to be modular, transparent and free of systemd, accessible to both beginners and advanced Linux users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://spacedlinux.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/crhy/spaced/releases/download/v11.26/spaced-linux-11.26-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/spaced"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:33cb34eb-083a-5561-869d-7c71fad4cdbe</id>
+    <title>Galactic Mandate 08</title>
+    <updated>2026-11-06T22:48:47.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T22:48:47.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/galactic"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/galactic.png" alt="Galactic Mandate" /&gt;
+&lt;p&gt;Galactic Mandate Linux is an Ubuntu-based Linux distribution featuring the Budgie desktop and a science fiction theme. It includes book-cover themes, live system telemetry, themed applications, alert modes, visual file tools, and practical Linux software, such as Firefox and OnlyOffice delivered as flatpak packages. The distribution is developed by M. R. Richardson, a science fiction writer and author of the Galactic Mandate series of science fiction books.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mr-richardson.com/galactic-mandate-linux/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://mr-richardson.com/wp-content/uploads/2026/11/galactic-mandate-linux-v08.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/galactic"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:3bee1ea9-8b2e-5daa-89fb-40b74e3716e7</id>
+    <title>VailuxOS 1.6.1.6</title>
+    <updated>2026-11-06T21:38:29.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T21:38:29.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/vailuxos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/vailuxos.png" alt="VailuxOS" /&gt;
+&lt;p&gt;VailuxOS is a German, desktop-oriented Linux distribution based on Ubuntu's long-term support (LTS) branch or Debian's "Stable" branch. The project's primary goal is to make the transition from Windows to Linux as seamless as possible by maintaining familiar ways of working and workflows. The distribution uses the KDE Plasma desktop.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.vailux.de/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://downloads.vailux.de/VailuxOS-1.6.1.6-desktop-stable-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/vailuxos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:8576a5d9-ca32-58e2-9e60-862e130aa1fe</id>
+    <title>FreeBSD 15.2-BETA1</title>
+    <updated>2026-11-06T20:29:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T20:29:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/freebsd"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/freebsd.png" alt="FreeBSD" /&gt;
+&lt;p&gt;FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, powerpc, ppc64, PC-98 and UltraSPARC platforms based on U.C. Berkeley's "4.4BSD-Lite" release, with some "4.4BSD-Lite2" enhancements. It is also based indirectly on William Jolitz's port of U.C. Berkeley's "Net/2" to the i386, known as "386BSD", though very little of the 386BSD code remains. FreeBSD is used by companies, Internet Service Providers, researchers, computer professionals, students and home users all over the world in their work, education and recreation. FreeBSD comes with over 20,000 packages (pre-compiled software that is bundled for easy installation), covering a wide range of areas: from server software, databases and web servers, to desktop software, games, web browsers and business software - all free and easy to install.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.freebsd.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.freebsd.org/releases/ISO-IMAGES/15.2/FreeBSD-15.2-BETA1-amd64-disc1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/freebsd"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:48d41391-d10f-5b66-8bf1-15394a965869</id>
+    <title>XBian 2026.11.06</title>
+    <updated>2026-11-06T19:29:09.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T19:29:09.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/xbian"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/xbian.png" alt="XBian" /&gt;
+&lt;p&gt;XBian is a small, fast and lightweight media centre Linux distribution for the Raspberry Pi range of single-board computers. It is based on a minimal Debian and it boots into a customised Kodi media centre. Besides the standard Kodi configuration module, Xbian provides a custom application for configuring services, package installations, updates, system backups, and user interface preferences. The distribution uses the Btrfs filesystem.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://xbian.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/xbian/files/release/XBian_2026.11.06_arm64_rpi5.img.gz"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/xbian"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:e183c221-6e22-598a-9f55-9d201aaff755</id>
+    <title>Noid 20261106</title>
+    <updated>2026-11-06T11:31:46.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T11:31:46.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/noid"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/noid.png" alt="Noid" /&gt;
+&lt;p&gt;Noid Linux is a Void-based minimalist Linux distribution with Xfce as the preferred desktop. It includes a long-term supported Linux kernel, the Calamares system installer, the Brave web browser, support for Flatpak packages, and a custom Welcome screen. The project also provides its own repository for Void's XBPS packages with additional software.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://sourceforge.net/projects/noid-linux/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/noid-linux/files/noid-live-weekly-20261106/noid-live-x86_64-20261106-xfce-runit.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/noid"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:a94d805c-9a5a-5626-b1cc-19ddb3f47eac</id>
+    <title>AI-2 20261106</title>
+    <updated>2026-11-06T10:32:24.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T10:32:24.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ai2"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/ai2.png" alt="AI-2" /&gt;
+&lt;p&gt;AI-2 is a minimalist desktop Linux distribution providing a local artificial intelligence (AI) assistant. It is based on Artix Linux, an Arch-derived distribution without the systemd init suite, and uses the Xfce desktop. At first login, a setup wizard detects the user's hardware, assigns a capability tier, installs the matching llama.cpp build (an app that runs the latest open model), downloads a fitting model and calculates an AI score that decides which large language models are recommended. The distribution also provides a custom AI-2 Chat application, available in the menu, that opens a chat page in the web browser; it uses an OpenAI-compatible API on localhost, so no data leave the user's computers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ProWoos-Devs/ai-2"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/ProWoos-Devs/ai-2/releases/download/iso-20261106/ai-2-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ai2"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:f9b70345-8b71-573e-a3a3-533bf66061e4</id>
+    <title>Equestria 2026.11.05</title>
+    <updated>2026-11-06T07:45:46.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T07:45:46.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/equestria"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/equestria.png" alt="Equestria" /&gt;
+&lt;p&gt;Equestria OS is a beginner-friendly Linux distribution based on Arch Linux and featuring the KDE Plasma desktop. Its main feature is a set of over 20 unique, built-in graphical utilities for effortless computer management, largely eliminating the need for use of the terminal emulator. The distribution comes with an integrated Proton engine, a Steam client compatibility tool that allows Windows-only games to run on Linux in secure, isolated sandboxes. It also includes a theme editor, as well as various smart tools for disk management, file relocation, and offline software installation. Equestria OS is designed primarily for gamers, digital artists and fandom fans.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://psyche-games.com/equestria-os.php"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/equestria-os/files/equestria-os-2026.11.05-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/equestria"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:02b02573-9ab0-5bcf-85b0-cc0c3e42fcbe</id>
+    <title>TrueNAS 25.10.8</title>
+    <updated>2026-11-06T06:37:52.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T06:37:52.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/truenas"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/truenas.png" alt="TrueNAS" /&gt;
+&lt;p&gt;TrueNAS CORE (previously known as FreeNAS) is a free and Open Source Network-Attached Storage (NAS) operating system that supports file, block and object storage. TrueNAS CORE is FreeBSD based and is a community-supported branch of the TrueNAS project, sponsored by iXsystems. It also has a commercial branch called TrueNAS Enterprise and a free and HyperConverged storage solution called TrueNAS SCALE. The TrueNAS SCALE branch is based on the Debian Linux distribution.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.truenas.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.sys.truenas.net/TrueNAS-SCALE-Goldeye/25.10.8/TrueNAS-SCALE-25.10.8.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/truenas"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:5bd16852-e520-58c8-a251-c3dbebf41eaa</id>
+    <title>OsoLinux 45</title>
+    <updated>2026-11-06T00:44:12.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-06T00:44:12.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/osolinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/osolinux.png" alt="OsoLinux" /&gt;
+&lt;p&gt;OsoLinux is Chinese desktop Linux distribution based on Fedora and optimised for multimedia and gaming use. It deploys the KDE Plasma desktop. Some of its other features include pre-installed basic development environment and many popular desktop, office and multimedia applications, addition of default touchpad tap settings and emulator game tools, and inclusion of the latest Linux kernel in the distribution's default live environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://oso.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/oso/files/OsoLinux-fc45-Delta-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/osolinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>
