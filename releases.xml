@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DistroWatch releases</title>
+  <subtitle>Latest distribution releases with homepage and download links</subtitle>
+  <id>https://feed.osowoso.org/releases.xml</id>
+  <updated>2026-11-14T17:32:39+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/releases.xml" />
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/releases.html" />
+  <entry>
+    <title>ENux 6.1.1</title>
+    <id>https://distrowatch.com/enux</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/enux" />
+    <published>2026-11-14T16:15:55+00:00</published>
+    <updated>2026-11-14T16:15:55+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/enux.png" alt="ENux" /&gt;
+&lt;p&gt;ENux is a desktop Linux distribution based on Debian&amp;#x27;s &amp;quot;Stable&amp;quot; branch. It integrated Bedrock Linux, a project developing scripts that mix-and-match components from various Linux distributions and integrate them into one largely cohesive system. ENux&amp;#x27;s main claim to fame is support for a large range of popular package management tools that exist in the Linux ecosystem, including apk (Alpine Linux), dpkg/apt (Debian), emerge/portage (Gentoo), nix (NixOS), pacman (Arch Linux), rpm/dnf (Fedora), xbps (Void) and zypper (openSUSE) via the unified pmm tool (from Bedrock Linux). The distribution uses the Xfce desktop and substitutes Debian&amp;#x27;s long-term supported Linux kernel with a more up-to-date version.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.emirpasha.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/enux/files/ENux-6.1.1/ENux-6.1.1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/enux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Zenwalk Current-261114</title>
+    <id>https://distrowatch.com/zenwalk</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/zenwalk" />
+    <published>2026-11-14T15:04:35+00:00</published>
+    <updated>2026-11-14T15:04:35+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/zenwalk.png" alt="Zenwalk" /&gt;
+&lt;p&gt;Zenwalk Linux (formerly Minislack) is a Slackware-based GNU/Linux operating system with a goal of being slim and fast by using only one application per task and with a focus on graphical desktop and multimedia usage. Zenwalk features the latest Linux technology along with a complete programming environment and libraries to provide an ideal platform for application programmers. Zenwalk&amp;#x27;s modular approach also provides a simple way to convert Zenwalk Linux into a finely-tuned modern server (e.g. LAMP, messaging, file sharing).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.zenwalk.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.zenwalk.org/x86_64/current/zenwalk-current-261114.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/zenwalk"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ArchEZ 2026.11.14</title>
+    <id>https://distrowatch.com/archez</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/archez" />
+    <published>2026-11-14T11:56:20+00:00</published>
+    <updated>2026-11-14T11:56:20+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/archez.png" alt="ArchEZ" /&gt;
+&lt;p&gt;ArchEZ (formerly ZestISO) is a rolling-release desktop Linux distribution based on Arch Linux. It comes in three editions, with the &amp;quot;KDE Gaming&amp;quot; variant designed for modern computers and with gaming and multimedia software as well as HDR (High Dynamic Range) video support included, while &amp;quot;Xfce&amp;quot; and &amp;quot;IceWM&amp;quot; are lightweight options designed for older systems. The &amp;quot;KDE Gaming&amp;quot; flavour also provides the Wine compatibility layer for running some Windows games and programs and offers support for Microsoft&amp;#x27;s NTFS volumes. ArchEZ uses its own graphical installation wizard called &amp;quot;ArchEZ Installer&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/SuperSonic65535/archez-linux-archiso"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/archez/files/daily-build/archez-xfce-2026.11.14-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/archez"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>FreeBSD 15.2-BETA2</title>
+    <id>https://distrowatch.com/freebsd</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/freebsd" />
+    <published>2026-11-13T20:10:51+00:00</published>
+    <updated>2026-11-13T20:10:51+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/freebsd.png" alt="FreeBSD" /&gt;
+&lt;p&gt;FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, powerpc, ppc64, PC-98 and UltraSPARC platforms based on U.C. Berkeley&amp;#x27;s &amp;quot;4.4BSD-Lite&amp;quot; release, with some &amp;quot;4.4BSD-Lite2&amp;quot; enhancements. It is also based indirectly on William Jolitz&amp;#x27;s port of U.C. Berkeley&amp;#x27;s &amp;quot;Net/2&amp;quot; to the i386, known as &amp;quot;386BSD&amp;quot;, though very little of the 386BSD code remains. FreeBSD is used by companies, Internet Service Providers, researchers, computer professionals, students and home users all over the world in their work, education and recreation. FreeBSD comes with over 20,000 packages (pre-compiled software that is bundled for easy installation), covering a wide range of areas: from server software, databases and web servers, to desktop software, games, web browsers and business software - all free and easy to install.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.freebsd.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.freebsd.org/releases/ISO-IMAGES/15.2/FreeBSD-15.2-BETA2-amd64-disc1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/freebsd"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Rocky 10.3-rc1</title>
+    <id>https://distrowatch.com/rocky</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/rocky" />
+    <published>2026-11-13T15:23:23+00:00</published>
+    <updated>2026-11-13T15:23:23+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/rocky.png" alt="Rocky" /&gt;
+&lt;p&gt;Rocky Linux is a community enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux. It is available for the x86_64 and AArch64 processor architectures.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rockylinux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://dl.rockylinux.org/stg/rocky/10.3-RC1/isos/x86_64/Rocky-10.3-20261112.0-x86_64-dvd1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/rocky"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Argent 1.5.5</title>
+    <id>https://distrowatch.com/argent</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/argent" />
+    <published>2026-11-13T02:52:12+00:00</published>
+    <updated>2026-11-13T02:52:12+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/argent.png" alt="Argent" /&gt;
+&lt;p&gt;Argent Linux is a Gentoo-based Linux distribution featuring the KDE Plasma desktop and designed for workstations and servers. It uses the systemd service manager which, as it is not available in the upstream Gentoo repositories, the project itself provides in the form of binary packages. The distribution favours the epkg package manager, a highly simplistic wrapper over portage, specially designed for precompiled binaries. Argent Linux maintains a semi-rolling release model, with a stable branch and a development (testing) branch.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://argentlinux.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://iso.argentlinux.io/Argent.KDE.1.5.5-SLIM.amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/argent"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>hybrid-d77 20261113</title>
+    <id>https://distrowatch.com/hybridd77</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/hybridd77" />
+    <published>2026-11-13T01:41:48+00:00</published>
+    <updated>2026-11-13T01:41:48+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/hybridd77.png" alt="hybrid-d77" /&gt;
+&lt;p&gt;hybrid-d77 is a proof-of-concept distribution based on Chimera Linux, a project that combines the Linux kernel with the BSD userland (FreeBSD&amp;#x27;s chimerautils) and the APK package manager from Alpine Linux. Hence the reason for the word &amp;quot;hybrid&amp;quot; in the distribution&amp;#x27;s name - it refers to the unusual fusion of various BSD and Linux components the result of which is a unique, hybrid operating system. The project offers two separate live images that feature either the niri compositor with the custom-built Utumno desktop shell (a Quickshell fork) or the Sway compositor with a Waybar bar. hybrid-d77 uses the Dinit init system and provides two system installation programs, a command-line one as well as a graphical installation tool called &amp;quot;Mocinha&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://hybrid-d77.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/hybrid-d77/files/hybrid-d77-live-x86_64-20261113-niri.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/hybridd77"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>CatOS 2026.11.12</title>
+    <id>https://distrowatch.com/catos</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/catos" />
+    <published>2026-11-12T16:12:06+00:00</published>
+    <updated>2026-11-12T16:12:06+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/catos.png" alt="CatOS" /&gt;
+&lt;p&gt;CatOS is a Chinese Linux distribution based on Arch Linux and featuring a customised KDE Plasma desktop. Its main characteristics include out-of-the-box support for simplified Chinese input method, Calamares system installer, custom software repositories, and support for virtualization. It also provides a choice of Linux kernels, including the long-term supported variant, as well as mainline, Zen and hardened kernels. CatOS intends to be a user-friendly Linux distribution, especially for Chinese-speaking users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://catos.info/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/catos/files/catos-2026.11.12-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/catos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>LinuxConsole 2026-11-12</title>
+    <id>https://distrowatch.com/linuxconsole</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/linuxconsole" />
+    <published>2026-11-12T15:01:47+00:00</published>
+    <updated>2026-11-12T15:01:47+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/linuxconsole.png" alt="LinuxConsole" /&gt;
+&lt;p&gt;LinuxConsole is an independently developed Linux live CD with different editions designed for desktops, servers, gaming consoles, and old computers. Its primary characteristics are easy installation, extensive choice of software in the form of modules, and excellent hardware detection.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.linuxconsole.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://jukebox.linuxconsole.org/testing/LinuxConsole2026/linuxconsole.2026-11-12-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/linuxconsole"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Maple 1.5</title>
+    <id>https://distrowatch.com/maple</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/maple" />
+    <published>2026-11-12T13:11:17+00:00</published>
+    <updated>2026-11-12T13:11:17+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/maple.png" alt="Maple" /&gt;
+&lt;p&gt;Maple Linux is a desktop Linux distribution based on Debian&amp;#x27;s &amp;quot;Stable&amp;quot; branch and featuring the Cinnamon desktop. It is designed primarily for users located in Canada, with specific Canadian defaults. The distribution ships with both English and Canadian French locales pre-configured and it uses CIRA Canadian Shield DNS for privacy-focused, malware-blocking DNS servers operated locally. Maple Linux is pre-configured with America/Toronto timezone, Canadian keyboard layouts, and default settings that make sense for Canadian users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maplelinux.ca/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://api.ca-mtl-1.patrii.cloud:8443/iso/maple-linux-core-1.5-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/maple"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>openKylin 3.0-SP1</title>
+    <id>https://distrowatch.com/openkylin</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/openkylin" />
+    <published>2026-11-11T21:09:04+00:00</published>
+    <updated>2026-11-11T21:09:04+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/openkylin.png" alt="openKylin" /&gt;
+&lt;p&gt;openKylin is a Chinese desktop Linux distribution which runs the Kylin and UKUI desktop environments. Both Wayland and X11 sessions are available out of the box. The project is a member of the Debian family and can use APT package management tools. It also features a custom package format which is combined with a software centre. openKylin is also a proving ground for custom utilities which assist the user in managing the operating system.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.openkylin.top/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://mirror.accum.se/mirror/openkylin.top/releases/3.0-SP1/openKylin-Desktop-V3.0-SP1-20261110-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/openkylin"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Kader⁴² 2026.11.11</title>
+    <id>https://distrowatch.com/kader42</id>
+    <link rel="alternate" type="text/html" href="https://distrowatch.com/kader42" />
+    <published>2026-11-11T18:15:13+00:00</published>
+    <updated>2026-11-11T18:15:13+00:00</updated>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/kader42.png" alt="Kader⁴²" /&gt;
+&lt;p&gt;Kader⁴² is an Arch-based Linux distribution featuring the KDE Plasma desktop. It is designed primarily for convertible laptops (the types that offer both laptop and tablet modes), with useful features such as display rotation, appropriate launchers and menus for notebook and tablet modes, pre-configured swipe gestures similar to those on Android or iOS, and on-screen keyboard in tablet mode working out of the box. The distribution ships with the Calamares system, LibreOffice office suite and a large number of popular productivity and multimedia applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kader42.de/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/kader42/files/ISO-Releases/Kader42-2026.11.11-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/kader42"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
