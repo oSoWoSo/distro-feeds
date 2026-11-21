@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:74eb1bff-5f01-5348-b735-10ba193f7e3e</id>
+  <title>Releases — Feeds</title>
+  <updated>2026-11-20T21:17:05.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>Distinct stored items belonging to Releases</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:8576a5d9-ca32-58e2-9e60-862e130aa1fe</id>
+    <title>FreeBSD 15.2-BETA3</title>
+    <updated>2026-11-20T21:17:05.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-20T21:17:05.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/freebsd"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/freebsd.png" alt="FreeBSD" /&gt;
+&lt;p&gt;FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, powerpc, ppc64, PC-98 and UltraSPARC platforms based on U.C. Berkeley's "4.4BSD-Lite" release, with some "4.4BSD-Lite2" enhancements. It is also based indirectly on William Jolitz's port of U.C. Berkeley's "Net/2" to the i386, known as "386BSD", though very little of the 386BSD code remains. FreeBSD is used by companies, Internet Service Providers, researchers, computer professionals, students and home users all over the world in their work, education and recreation. FreeBSD comes with over 20,000 packages (pre-compiled software that is bundled for easy installation), covering a wide range of areas: from server software, databases and web servers, to desktop software, games, web browsers and business software - all free and easy to install.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.freebsd.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.freebsd.org/releases/ISO-IMAGES/15.2/FreeBSD-15.2-BETA3-amd64-disc1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/freebsd"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:4fd98ea9-f54d-52ce-9783-7290ae1a8b9b</id>
+    <title>Oracle 10.3</title>
+    <updated>2026-11-20T20:06:51.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-20T20:06:51.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/oracle"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/oracle.png" alt="Oracle" /&gt;
+&lt;p&gt;Oracle Linux is an enterprise-class Linux distribution supported by Oracle and built from source packages for Red Hat Enterprise Linux (RHEL). Some of the special features of Oracle Linux include a custom-build and rigorously-tested Linux kernel called "Oracle Unbreakable Kernel", tight integration with Oracle's hardware and software products including most database applications, and "zero downtime patching" - a feature that enables administrators to update the kernel without a reboot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.oracle.com/linux/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://yum.oracle.com/ISOS/OracleLinux/OL10/u3/x86_64/OracleLinux-R10-U3-x86_64-dvd.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/oracle"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:ecc69efa-0277-5156-8150-1867d3150ddc</id>
+    <title>Super Lite 24.7</title>
+    <updated>2026-11-20T14:31:10.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-20T14:31:10.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/superlite"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/superlite.png" alt="Super Lite" /&gt;
+&lt;p&gt;Super Lite Linux is a customised variant of antiX, a lightweight Debian-based distribution, featuring the JWM window manager. The project's objective is to improve the user interface of antiX to make the distribution more attractive to new users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gnu-super-lite-linux.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/gnu-super-lite-linux/files/Super-Lite-Linux-Zoe-24.7-Thunar-64bits.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/superlite"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:d25dc786-d56a-5b63-a542-5bcad4360a82</id>
+    <title>MidnightBSD 4.0.9</title>
+    <updated>2026-11-20T02:38:16.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-20T02:38:16.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/midnightbsd"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/midnightbsd.png" alt="MidnightBSD" /&gt;
+&lt;p&gt;MidnightBSD is a FreeBSD-derived operating system. A critical goal of the project is to create an easy-to-use desktop environment with graphical ports management, and system configuration using GNUstep. The vast majority of the operating system will maintain a BSD license. MidnightBSD was forked from FreeBSD 6.1 beta.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.midnightbsd.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://discovery.midnightbsd.org/ftp/releases/amd64/ISO-IMAGES/4.0.9/MidnightBSD-4.0.9--amd64-disc1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/midnightbsd"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:7c6dbdb6-c4c3-5fbd-8863-59ee8b3c6fd3</id>
+    <title>Neko-Void 20261101</title>
+    <updated>2026-11-19T16:51:06.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-19T16:51:06.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/nekovoid"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/nekovoid.png" alt="Neko-Void" /&gt;
+&lt;p&gt;Neko-Void is a Void-based rolling-release distribution featuring a preconfigured MATE desktop environment with carefully selected software. It is designed for users who want Void Linux's stability and minimalism with modern desktop functionality. The distribution ships with a custom system installer called Kasha Installer, and is available in two separate editions, with either X.Org or Xlibre display servers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.neko-void-linux.online/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/neko-void/files/isos/nekovoid-matelibre-20261101.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/nekovoid"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:0643d609-8f99-5142-921b-95379ed9aae2</id>
+    <title>MakuluLinux 2026-11-19</title>
+    <updated>2026-11-19T12:48:56.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-19T12:48:56.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/makulu"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/makulu.png" alt="MakuluLinux" /&gt;
+&lt;p&gt;MakuluLinux is a rolling-release, desktop distribution based either on Ubuntu's LTS (long-term support) release or Debian's "Testing" branch. It includes pre-installed multimedia codecs, device drivers and software for everyday use. MakuluLinux comes in four editions: "LinDoz" - featuring the Cinnamon desktop with the user interface customised to resemble that of Microsoft Windows, "Core" - presenting a highly customised Xfce desktop environment, "Flash" - providing a standard Xfce desktop, and finally "Shift" - delivering a pre-configured GNOME desktop environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.makululinux.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/makulu/files/downloads/AIOS/MakuluLinux-AI-OS-Debian-2026-11-19.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/makulu"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:ef388049-b78a-5a3a-b900-b43318d2546f</id>
+    <title>BackBox 10</title>
+    <updated>2026-11-19T11:26:36.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-19T11:26:36.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/backbox"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/backbox.png" alt="BackBox" /&gt;
+&lt;p&gt;BackBox Linux is an Ubuntu-based distribution developed to perform penetration tests and security assessments. It is designed to be fast and easy to use. It provides a minimal yet complete desktop environment, thanks to its own software repositories, which are always updated to the latest stable versions of the most often used and best-known ethical hacking tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.backbox.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://mirror.backbox.org/backbox-10-desktop-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/backbox"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:6e44998b-deb3-518f-97c3-13035d06d028</id>
+    <title>Recalbox 10.1.2</title>
+    <updated>2026-11-18T22:46:18.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-18T22:46:18.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/recalbox"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/recalbox.png" alt="Recalbox" /&gt;
+&lt;p&gt;Recalbox is a dedicated operating system for running video games on emulated retro and console platforms. Recalbox can also be used to run the Kodi media centre. The distribution's interface is primarily navigated with a console game controller, though keyboard support is available for many functions.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.recalbox.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://upgrade.recalbox.com/latest/x86_64/recalbox-x86_64.img.xz"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/recalbox"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:ece3bdc7-64f9-5181-8dd5-46b7c1b1800b</id>
+    <title>AnduinOS 2.1.0</title>
+    <updated>2026-11-18T20:53:40.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-18T20:53:40.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/anduin"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/anduin.png" alt="AnduinOS" /&gt;
+&lt;p&gt;AnduinOS is an Ubuntu-based distribution which provides a GNOME desktop which has been themed and styled to resemble Windows 11. The project provides a smaller ISO file than its parent with each supported language split into a separate ISO. Snap support, which is included in Ubuntu, has been removed from AnduinOS.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.anduinos.com/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://cf.anduinos.com/AnduinOS-2.1.0-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/anduin"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:456266f7-9be7-5aa2-b97b-af722458e1fb</id>
+    <title>Batocera 20261116</title>
+    <updated>2026-11-18T19:52:12.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-18T19:52:12.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/batocera"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/batocera.png" alt="Batocera" /&gt;
+&lt;p&gt;Batocera.linux is a minimal distribution dedicated to running retrogaming software. The distribution is able to run on most desktop computers, laptops and several single-board computers, including the Raspberry Pi. batocera.linux can be run from a USB thumb drive or SD card, allowing it to be transferred between computers. batocera.linux is based on RecalboxOS.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://batocera.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sour-silent-prune.6fcff5d8.katapult.cloud/images/batocera-zen3-x86-64-v3-44-20261116.img.gz"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/batocera"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:a6e28b86-6896-5e11-9981-ac5a7d070e9f</id>
+    <title>KDu 9-rv3</title>
+    <updated>2026-11-18T17:57:21.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-18T17:57:21.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/kdu"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/kdu.png" alt="KDu" /&gt;
+&lt;p&gt;GNU/Linux KDu is a Brazilian desktop Linux distribution based on Ubuntu and KDE neon. It features a customised KDE Plasma desktop and a large collection of software applications for daily and technical use, including office and productivity suites, various maintenance, data recovery and hardware diagnostic utilities, as well as tools for remote access and virtualisation. The distribution is localised into Brazilian Portuguese, inclusive of Brazilian data formats, and is suitable for both new and advanced Linux users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.linux-kdu.com.br/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/kduxp/files/KDu-9.0/Iso/KDu9-Rv4-IA/KDu9-Ion-Final-Rv4-IA-20261117-1823.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/kdu"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:0981c881-d50c-5a15-830b-0cea35733a43</id>
+    <title>ExTiX 261118</title>
+    <updated>2026-11-18T12:01:18.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-18T12:01:18.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/extix"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/extix.png" alt="ExTiX" /&gt;
+&lt;p&gt;ExTiX is a desktop Linux distribution and live DVD based on Ubuntu, offering a choice of alternative desktop environments.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.extix.se/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/extix/files/extix-26.11-deepin-25.3-refractasnapshot-5520mb-261118.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/extix"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>
