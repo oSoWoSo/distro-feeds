@@ -1,0 +1,9 @@
+{
+  "all": "feeds/all.xml",
+  "categories": [
+    {
+      "title": "Releases",
+      "path": "feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"
+    }
+  ]
+}

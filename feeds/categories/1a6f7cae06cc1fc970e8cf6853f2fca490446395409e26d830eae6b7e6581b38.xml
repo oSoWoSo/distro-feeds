@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:74eb1bff-5f01-5348-b735-10ba193f7e3e</id>
+  <title>Releases — Feeds</title>
+  <updated>2026-11-28T05:07:47.000Z</updated>
+  <author>
+    <name>Feeds</name>
+  </author>
+  <generator uri="https://github.com/llun/feeds">FeedsFetcher</generator>
+  <link rel="self" type="application/atom+xml" href="https://feed.osowoso.org/feeds/categories/1a6f7cae06cc1fc970e8cf6853f2fca490446395409e26d830eae6b7e6581b38.xml"/>
+  <link rel="alternate" type="text/html" href="https://feed.osowoso.org/"/>
+  <subtitle>Distinct stored items belonging to Releases</subtitle>
+  <icon>https://feed.osowoso.org/favicon.ico</icon>
+  <entry>
+    <id>urn:uuid:57d449b4-b6c6-59e8-97a8-7cb87fc6fb19</id>
+    <title>Sloth 2.1</title>
+    <updated>2026-11-28T05:07:47.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-28T05:07:47.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/sloth"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/sloth.png" alt="Sloth" /&gt;
+&lt;p&gt;Sloth OS is a beginner-friendly desktop and gaming Linux distribution based on Kinoite, one of Fedora's immutable variants, featuring a customised KDE Plasma desktop. It offers a number of desktop layouts, resembling those employed by other popular operating systems. The distribution also comes with a custom graphical system installer, a comprehensive configuration tool called "Sloth Center", and support for running some Windows applications via the Wine compatibility layer. Gamers are catered for, with pre-configured Steam platform, TV mode, controllers and graphics drivers. Sloth OS also offers automatic background updates with system rollback options.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://sloth-os-linux.github.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/sloth-os/files/2.1/sloth-os-2.1-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/sloth"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:29b7ceb8-708b-5c0e-b4f0-fa438306cfaf</id>
+    <title>Quarkos 26.04-r4</title>
+    <updated>2026-11-28T01:38:48.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-28T01:38:48.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/quarkos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/quarkos.png" alt="Quarkos" /&gt;
+&lt;p&gt;Quarkos is a desktop Linux distribution based on Ubuntu's long-term support branch, with a choice of two user interfaces - the modern KDE Plasma desktop or the lightweight Trinity desktop environment (a fork of KDE 3.5). It is a sister project of the Debian-based Q4OS distribution.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://quark-os.sourceforge.io/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/quark-os/files/stable/2-trinity-live-media/quarkos-26.04-x64-tde.r4.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/quarkos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:501477d7-234a-5dc0-b1de-a12f53a0aa90</id>
+    <title>UTUTO 2027.2</title>
+    <updated>2026-11-28T00:42:29.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-28T00:42:29.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/ututo"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/ututo.png" alt="UTUTO" /&gt;
+&lt;p&gt;UTUTO GNU/Linux is an Ubuntu-based distribution (Gentoo-based before version 2017) developed by at the Universidad Nacional de Salta in Argentina. Named after a fidgety local lizard that pokes its nose into every hole, UTUTO is a high-performance desktop system designed to be used by home and office users, developers, organisations and government officials.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ututo.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://ututo.org/downloads/ututo2027.2.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/ututo"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:8576a5d9-ca32-58e2-9e60-862e130aa1fe</id>
+    <title>FreeBSD 15.2-RC1</title>
+    <updated>2026-11-27T20:22:48.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-27T20:22:48.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/freebsd"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/freebsd.png" alt="FreeBSD" /&gt;
+&lt;p&gt;FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, powerpc, ppc64, PC-98 and UltraSPARC platforms based on U.C. Berkeley's "4.4BSD-Lite" release, with some "4.4BSD-Lite2" enhancements. It is also based indirectly on William Jolitz's port of U.C. Berkeley's "Net/2" to the i386, known as "386BSD", though very little of the 386BSD code remains. FreeBSD is used by companies, Internet Service Providers, researchers, computer professionals, students and home users all over the world in their work, education and recreation. FreeBSD comes with over 20,000 packages (pre-compiled software that is bundled for easy installation), covering a wide range of areas: from server software, databases and web servers, to desktop software, games, web browsers and business software - all free and easy to install.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.freebsd.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://download.freebsd.org/releases/ISO-IMAGES/15.2/FreeBSD-15.2-RC1-amd64-disc1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/freebsd"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:5ef2cd2a-c8da-5cd5-9328-ffd5dc15dc4d</id>
+    <title>Omarchy 4.6.0-rc1</title>
+    <updated>2026-11-27T19:36:56.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-27T19:36:56.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/omarchy"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/omarchy.png" alt="Omarchy" /&gt;
+&lt;p&gt;Omarchy is an Arch-based Linux distribution featuring the Hyprland tiling window manager. It ships with what a modern software developer would need to be productive immediately, including Neovim, Spotify, Chromium, Typora, Alacritty, LibreOffice and Zoom. The distribution boots into a text-mode system installer that downloads the latest packages from the Arch Linux repositories during installation to build a complete Hyprland desktop.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://omarchy.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://iso.omarchy.org/omarchy-4.6.0-rc1-x86.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/omarchy"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:5b3469fd-4312-5a4b-8732-358666603995</id>
+    <title>Proton 2026.12.01</title>
+    <updated>2026-11-27T18:13:40.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-27T18:13:40.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/proton"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/proton.png" alt="Proton" /&gt;
+&lt;p&gt;Proton OS is a desktop-oriented Linux distribution based on Debian's "Stable" branch. Featuring the KDE Plasma desktop, it is built with small businesses in mind, designed primarily for office workstations, shared computers and reception systems. It also includes the Calamares system installer and is pre-configured to automatically install all security updates. The project's goal is to give businesses greater control over their computers while reducing dependence on proprietary operating systems and unnecessary data collection.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.protonos.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/proton-os/files/Core/ProtonOS-Core-1.0-64bit-2026.12.01.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/proton"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:f4409c67-51d2-58a5-8fff-9a61a342c8ca</id>
+    <title>Talos 1.15.0-beta1</title>
+    <updated>2026-11-27T15:22:07.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-27T15:22:07.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/talos"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/talos.png" alt="Talos" /&gt;
+&lt;p&gt;Talos is a specialist Linux-based operating system for running Kubernetes, an open-source system for automating deployment, scaling and management of containerised applications. Minimal, immutable and hardened, it does not offer any shell or interactive console; instead, all system management is done via remote Application Programming Interface (API) calls, where messages sent from a client application are protected with mutual Transport Layer Security TLS (mTLS) authentication. Talos also delivers atomic updates, thus maintaining the Linux and Kubernetes versions up-to-date. Talos is developed in the USA by Sidero Labs, Inc.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.talos.dev/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/siderolabs/talos/releases/download/v1.15.0-beta.1/metal-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/talos"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:e957f594-3461-5968-8bb7-2d0d96936d18</id>
+    <title>Kiro 26.12.01</title>
+    <updated>2026-11-27T09:36:48.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-27T09:36:48.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/kiro"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/kiro.png" alt="Kiro" /&gt;
+&lt;p&gt;Kiro is a desktop Linux distribution based on Arch Linux. It pairs a curated Arch Linux base with the nemesis_repo (a repository of pre-built packages), the Calamares system installer, and ArchLinux Tweak Tool for post-install configuration. At the live system's login screen, Kiro offers a choice between the Xfce desktop environment and ohmychadwm window manager (Kiro's own tiling window manager, a fork of dwm). Once installed, it provides support for a number of popular desktop environments and window managers, all installable from ArchLinux Tweak Tool. Kiro follows Arch's rolling-release model and targets 64-bit (x86_64) systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kiroproject.be/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/kiro/files/kiro-v26.12.01-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/kiro"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:0e7c8c95-6847-51b9-9918-ce1d4da69e2a</id>
+    <title>Maze 2026.11.26</title>
+    <updated>2026-11-26T15:53:18.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-26T15:53:18.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/maze"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/maze.png" alt="Maze" /&gt;
+&lt;p&gt;Maze Linux is an Arch-based Linux distribution focused on security, privacy and artificial intelligence (AI). It ships a customised and hardened KDE Plasma desktop with defensive and anonymity tools installed and pre-configured. The distribution includes a custom Maze control center for configuring various security, privacy, networking, artificial intelligence, hardening and maintenance options. Some of the other interesting utilities included in Maze Linux are: Maze AI (a local AI assistant), Maze Guard (a per-application outbound firewall), QLAM (an antivirus program), Entropy Shield (a one-click anonymity layer), Maze Cloak (a MAC address randomizer), Haze (a serverless messenger over the Tor protocol), HazeDrop (an anonymous file drop) and Maze Connect (a tool to control the desktop from an Android device).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mazelinux.com.tr/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://r2.mazelinux.com.tr/mazelinux-2026.11.26-x86_64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/maze"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:b9843b8f-3691-5fbc-9f94-c3b61a3d41c8</id>
+    <title>Clonezilla 3.3.5-3</title>
+    <updated>2026-11-26T14:52:27.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-26T14:52:27.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/clonezilla"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/clonezilla.png" alt="Clonezilla" /&gt;
+&lt;p&gt;Clonezilla Live is a Debian-based live CD containing Clonezilla, a partition and disk cloning software similar to Norton Ghost. It saves and restores only used blocks in hard drive. With Clonezilla, one can clone a 5 GB system to 40 clients in about 10 minutes.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://clonezilla.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://downloads.sourceforge.net/clonezilla/clonezilla-live-3.3.5-3-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/clonezilla"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:b4f4c50b-5fed-5ae9-92c7-4afd3ae7d4c5</id>
+    <title>Quirinux 2.3_Rev1</title>
+    <updated>2026-11-26T13:42:10.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-26T13:42:10.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/quirinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/quirinux.png" alt="Quirinux" /&gt;
+&lt;p&gt;Quirinux is a Devuan-based Linux distribution designed for the development of animated films. The project provides tools to create an animated film using various common techniques (traditional, digital, cut-out, CGI-3D, stop motion, motion graphics) using open-source software. The distribution uses the Xfce desktop and its main features include ease of installation with the Calamares system installer, GIMP image editor that comes with a configurator tool and extra plugins, and choice of themes and desktop layouts.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://quirinux.org/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://repo.quirinux.org/dev/isos/Quirinux-2.3-Estable_x64_Rev1.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/quirinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+  <entry>
+    <id>urn:uuid:76f3976b-2250-5b61-9b71-7166f2024b18</id>
+    <title>OmegaLinux 4.0</title>
+    <updated>2026-11-26T12:41:00.000Z</updated>
+    <author>
+      <name>Releases</name>
+    </author>
+    <published>2026-11-26T12:41:00.000Z</published>
+    <link rel="alternate" href="https://distrowatch.com/omegalinux"/>
+    <category term="Releases"/>
+    <content type="html">&lt;img src="https://distrowatch.com/images/icon-small/omegalinux.png" alt="OmegaLinux" /&gt;
+&lt;p&gt;OmegaLinux is an Arch-based, rolling-release Linux distribution featuring the lightweight LXDE desktop. It is suitable for installation on older computers with as little as 1 GB of memory. OmegaLinux was originally based on Lubuntu, but it was rebuilt on top of an Arch Linux base in February 2026.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://omega-linux.github.io/page/"&gt;Homepage&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/omega-linux/releases/releases/download/4.0/omegalinux-4.0-synapse-amd64.iso"&gt;ISO&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://distrowatch.com/omegalinux"&gt;DistroWatch&lt;/a&gt;&lt;/p&gt;</content>
+    <source>
+      <title>Releases</title>
+      <link rel="self" href="https://raw.githubusercontent.com/oSoWoSo/distro-feeds/public/releases.xml"/>
+      <link rel="alternate" href="https://feed.osowoso.org/releases.html"/>
+    </source>
+  </entry>
+</feed>

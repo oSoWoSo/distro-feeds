@@ -1,0 +1,24 @@
+SITE_TITLE="distro-feeds"
+SITE_DESCRIPTION="Latest Linux distribution releases"
+SITE_URL="https://feed.osowoso.org"
+AUTHOR_NAME="oSoWoSo"
+AUTHOR_EMAIL="mail@osowoso.org"
+THEME="osowoso"
+
+[ -z "$TEMPLATES_DIR" ] && TEMPLATES_DIR=~/Projekty/bssg/templates
+[ -z "$THEMES_DIR" ]    && THEMES_DIR=~/Projekty/bssg/themes
+[ -z "$LOCALE_DIR" ]    && LOCALE_DIR=~/Projekty/bssg/locales
+[ -z "$SRC_DIR" ]       && SRC_DIR=~/Projekty/distro-feeds/src
+[ -z "$PAGES_DIR" ]     && PAGES_DIR=~/Projekty/distro-feeds/pages
+[ -z "$OUTPUT_DIR" ]    && OUTPUT_DIR=~/Projekty/distro-feeds/output
+[ -z "$STATIC_DIR" ]    && STATIC_DIR=~/Projekty/distro-feeds/static
+[ -z "$CACHE_DIR" ]     && CACHE_DIR=~/Projekty/distro-feeds/.bssg_cache
+
+RSS_INCLUDE_FULL_CONTENT=true
+RSS_ITEM_LIMIT=20
+ENABLE_ARCHIVES=true
+ENABLE_RELATED_POSTS=false
+ENABLE_AUTHOR_PAGES=false
+ENABLE_TOC=false
+CLEAN_OUTPUT=true
+MARKDOWN_PROCESSOR="pandoc"
