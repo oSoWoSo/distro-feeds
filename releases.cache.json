@@ -1,0 +1,17 @@
+{
+  "homepages": {
+    "clonezilla": "https://clonezilla.org/",
+    "freebsd": "https://www.freebsd.org/",
+    "kiro": "https://kiroproject.be/",
+    "maze": "https://mazelinux.com.tr/",
+    "omarchy": "https://omarchy.org/",
+    "omegalinux": "https://omega-linux.github.io/page/",
+    "proton": "https://www.protonos.org/",
+    "quarkos": "https://quark-os.sourceforge.io/",
+    "quirinux": "https://quirinux.org/",
+    "sloth": "https://sloth-os-linux.github.io/",
+    "talos": "https://www.talos.dev/",
+    "ututo": "https://www.ututo.org/"
+  },
+  "updated": "2026-11-28T05:50:49+00:00"
+}
